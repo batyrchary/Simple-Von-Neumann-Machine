@@ -5,5 +5,5 @@ when you run these commands: python -c "import the2; print the2.geo_wizard([[1,2
                              python -c "import the2; print the2.geo_wizard([[1,2],[2,3],[4,4],[5,4]])"
 it produces correct outputs "Line" and "Triangle" respectively.                             
 
-I also provided there simple tester, which you can run with this command:
+I also provided simple tester, which you can run with this command:
             python theTester.py

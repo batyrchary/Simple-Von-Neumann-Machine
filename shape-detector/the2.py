@@ -23,6 +23,7 @@ def geo_wizard(variable):
 	p2=[x2,y2]
 	p3=[x3,y3]
 	p4=[x4,y4]
+
 	s1=slope([p1,p2])
 	s2=slope([p1,p3])
 	s3=slope([p1,p4])
@@ -30,11 +31,14 @@ def geo_wizard(variable):
 	s5=slope([p2,p4])
 	s6=slope([p3,p4])
 
-	if (x1 == x2 == x3 == x4) or (y1 == y2 == y3 == y4): return 'Line'
-	if abs(s1-s2)<=10**-3 and abs(s1-s3)<=10**-3 and abs(s1-s4)<=10**-3 and abs(s1-s5)<=10**-3 and abs(s1-s6)<=10**-3 and abs(s2-s3)<=10**-3 and abs(s2-s4)<=10**-3 and abs(s2-s5)<=10**-3 and abs(s2-s6)<=10**-3 and abs(s3-s4)<=10**-3 and abs(s3-s5)<=10**-3 and abs(s3-s6)<=10**-3 and abs(s4-s5)<=10**-3 and abs(s4-s6)<=10**-3 and abs(s5-s6)<=10**-3: return 'Line'
 
-  
+#####################################################
+	if (x1 == x2 == x3 == x4) or (y1 == y2 == y3 == y4): 
+		return 'Line'
+	if abs(s1-s2)<=10**-3 and abs(s1-s3)<=10**-3 and abs(s1-s4)<=10**-3 and abs(s1-s5)<=10**-3 and abs(s1-s6)<=10**-3 and abs(s2-s3)<=10**-3 and abs(s2-s4)<=10**-3 and abs(s2-s5)<=10**-3 and abs(s2-s6)<=10**-3 and abs(s3-s4)<=10**-3 and abs(s3-s5)<=10**-3 and abs(s3-s6)<=10**-3 and abs(s4-s5)<=10**-3 and abs(s4-s6)<=10**-3 and abs(s5-s6)<=10**-3: 
+		return 'Line'
 
+#####################################################
 
 	d=(2*(x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2)))
 
@@ -46,8 +50,10 @@ def geo_wizard(variable):
 	r3=math.sqrt((x3-cX)*(x3-cX)+(y3-cY)*(y3-cY))
 	r4=math.sqrt((x4-cX)*(x4-cX)+(y4-cY)*(y4-cY))
 
-	if (abs(r4-r1)<=10**-3) or (abs(r4-r2)<=10**-3) or (abs(r4-r3)<=10**-3): return 'Circle'
-	
+	if (abs(r4-r1)<=10**-3) and (abs(r4-r2)<=10**-3) and (abs(r4-r3)<=10**-3) and (abs(r3-r1)<=10**-3) and (abs(r3-r2)<=10**-3) and (abs(r2-r1)<=10**-3): 
+		return 'Circle'
+
+#####################################################
 
 
 #Check for A
@@ -95,6 +101,8 @@ def geo_wizard(variable):
 	Wb4 = (nD4[0]*nC4[1]-nD4[1]*nC4[0])/d4
 	Wc4 = (nD4[1]*nB4[0]-nD4[0]*nB4[1])/d4
 
-	if (0<Wa1<1 and 0<Wb1<1 and 0<Wc1<1) or (0<Wa2<1 and 0<Wb2<1 and 0<Wc2<1) or (0<Wa3<1 and 0<Wb3<1 and 0<Wc3<1) or (0<Wa4<1 and 0<Wb4<1 and 0<Wc4<1): return 'Arbitraryquadrilateral'
-	elif ((1<=Wa1 or Wa1<=0) and (1<=Wb1 or Wb1<=0) and (1<=Wc1 or Wc1<=0)) or ((1<=Wa2 or Wa2<=0) and (1<=Wb2 or Wb2<=0) and (1<=Wc2 or Wc2<=0)) or ((1<=Wa3 or Wa3<=0) and (1<=Wb3 or Wb3<=0) and (1<=Wc3 or Wc3<=0)) or ((1<=Wa4 or Wa4<=0) and (1<=Wb4 or Wb4<=0) and (1<=Wc4 or Wc4<=0)): return 'Triangle'
+	if (0<Wa1<1 and 0<Wb1<1 and 0<Wc1<1) or (0<Wa2<1 and 0<Wb2<1 and 0<Wc2<1) or (0<Wa3<1 and 0<Wb3<1 and 0<Wc3<1) or (0<Wa4<1 and 0<Wb4<1 and 0<Wc4<1):
+		 return 'Arbitraryquadrilateral'
+	elif ((1<=Wa1 or Wa1<=0) and (1<=Wb1 or Wb1<=0) and (1<=Wc1 or Wc1<=0)) or ((1<=Wa2 or Wa2<=0) and (1<=Wb2 or Wb2<=0) and (1<=Wc2 or Wc2<=0)) or ((1<=Wa3 or Wa3<=0) and (1<=Wb3 or Wb3<=0) and (1<=Wc3 or Wc3<=0)) or ((1<=Wa4 or Wa4<=0) and (1<=Wb4 or Wb4<=0) and (1<=Wc4 or Wc4<=0)): 
+		return 'Triangle'
 

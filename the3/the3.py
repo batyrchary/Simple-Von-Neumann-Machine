@@ -15,14 +15,14 @@ def two_neighbors(element,lst):
 	i1=-1
 	i2=-1
 	for e in lst:
-		d=dist(element,e)
-		if d<dis1:
-			i1=lst.index(e)
-			dis1=d
-		elif d<dis2:
-			i2=lst.index(e)
-			dis2=d
-
+		if e != element:			
+			d=dist(element,e)
+			if d<dis1:
+				i1=lst.index(e)
+				dis1=d
+			elif d<dis2:
+				i2=lst.index(e)
+				dis2=d
 
 	if dist(max_tuple[0],max_tuple[1]) > dis1 :
 		max_tuple[0]=lst[i1]

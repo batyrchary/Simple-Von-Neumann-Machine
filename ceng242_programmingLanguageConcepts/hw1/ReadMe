@@ -1,0 +1,4 @@
+In pdf we have problem defined also in test.zip we have simple tester.
+
+
+After extracting files from test.zip and putting HW1.hs to same directory run ./test.sh to test HW1.hs

@@ -1,0 +1,47 @@
+# Batyr Charyyev 2001527
+
+# Execution begins at address 0 
+	.pos 0
+	irmovq stack, %rsp  	# Set up stack pointer
+	call main		# Execute main program
+	halt			# Terminate program 
+ 
+# Sample linked list 
+.align 8 
+ele1: 
+	.quad 0x1 
+	.quad ele2 
+ele2: 
+	.quad 0x0b0 
+	.quad ele3 
+ele3: 
+	.quad 0xc00 
+	.quad 0 
+	
+main:	irmovq ele2,%rdi
+#	pushq %rdi
+	call sum_list		# sum_list(ele1)
+	ret	
+ 
+sum_list:
+
+pushq %rdx
+	rrmovq %rdi, %rdx 
+	irmovq $0,%rax
+	andq %rdx,%rdx
+	je L1
+ 
+L2:			# Loop: 
+	mrmovq (%rdx),%rdi	
+	addq %rdi,%rax		
+	mrmovq 8(%rdx),%rdx	
+	andq %rdx,%rdx		 
+	jne L2			 
+L1:			 
+	popq %rdx		 
+	ret	
+
+
+	.pos 0x200
+stack:
+

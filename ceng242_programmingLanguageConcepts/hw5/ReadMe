@@ -1,0 +1,5 @@
+In this hw I implemented solution for "navigtion problem in 2D" in prolog.
+
+Detailed information of problem and how to run it provided in pdf file.
+
+Also in tester.zip there exist tester for problem. By just typing "./tester.sh" on terminal you can run it.

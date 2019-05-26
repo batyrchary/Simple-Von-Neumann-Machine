@@ -16,9 +16,7 @@ triangle
 ## How to run
 
 ```
-python -c "import the2; 
-
-print the2.geo_wizard([[1,2],[2,3],[3,4],[5,4]])"
+python -c "import the2; print the2.geo_wizard([[1,2],[2,3],[3,4],[5,4]])"
 
 ```
 

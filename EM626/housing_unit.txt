@@ -1,0 +1,3143 @@
+United States	139,684,244
+Autauga County, Alabama	23,896
+Baldwin County, Alabama	119,412
+Barbour County, Alabama	12,080
+Bibb County, Alabama	9,261
+Blount County, Alabama	24,517
+Bullock County, Alabama	4,587
+Butler County, Alabama	10,147
+Calhoun County, Alabama	53,796
+Chambers County, Alabama	17,009
+Cherokee County, Alabama	16,715
+Chilton County, Alabama	20,056
+Choctaw County, Alabama	7,413
+Clarke County, Alabama	12,857
+Clay County, Alabama	6,833
+Cleburne County, Alabama	6,891
+Coffee County, Alabama	23,403
+Colbert County, Alabama	26,861
+Conecuh County, Alabama	7,223
+Coosa County, Alabama	6,635
+Covington County, Alabama	19,068
+Crenshaw County, Alabama	6,862
+Cullman County, Alabama	38,252
+Dale County, Alabama	23,201
+Dallas County, Alabama	20,460
+DeKalb County, Alabama	31,593
+Elmore County, Alabama	34,475
+Escambia County, Alabama	16,645
+Etowah County, Alabama	47,855
+Fayette County, Alabama	8,540
+Franklin County, Alabama	14,126
+Geneva County, Alabama	12,955
+Greene County, Alabama	5,177
+Hale County, Alabama	7,880
+Henry County, Alabama	9,255
+Houston County, Alabama	48,134
+Jackson County, Alabama	25,194
+Jefferson County, Alabama	309,697
+Lamar County, Alabama	7,431
+Lauderdale County, Alabama	45,611
+Lawrence County, Alabama	15,363
+Lee County, Alabama	71,225
+Limestone County, Alabama	36,526
+Lowndes County, Alabama	5,274
+Macon County, Alabama	10,321
+Madison County, Alabama	166,516
+Marengo County, Alabama	10,397
+Marion County, Alabama	14,806
+Marshall County, Alabama	40,791
+Mobile County, Alabama	185,035
+Monroe County, Alabama	11,471
+Montgomery County, Alabama	105,317
+Morgan County, Alabama	52,398
+Perry County, Alabama	4,750
+Pickens County, Alabama	9,647
+Pike County, Alabama	16,273
+Randolph County, Alabama	12,157
+Russell County, Alabama	28,118
+St Clair County, Alabama	37,258
+Shelby County, Alabama	89,133
+Sumter County, Alabama	6,929
+Talladega County, Alabama	38,092
+Tallapoosa County, Alabama	22,664
+Tuscaloosa County, Alabama	92,792
+Walker County, Alabama	31,352
+Washington County, Alabama	8,634
+Wilcox County, Alabama	5,840
+Winston County, Alabama	13,765
+Aleutians East Borough, Alaska	755
+Aleutians West Census Area, Alaska	1,966
+Anchorage Municipality, Alaska	119,276
+Bethel Census Area, Alaska	6,034
+Bristol Bay Borough, Alaska	977
+Denali Borough, Alaska	1,765
+Dillingham Census Area, Alaska	2,456
+Fairbanks North Star Borough, Alaska	44,305
+Haines Borough, Alaska	1,687
+Hoonah-Angoon Census Area, Alaska	1,768
+Juneau City and Borough, Alaska	13,852
+Kenai Peninsula Borough, Alaska	31,439
+Ketchikan Gateway Borough, Alaska	6,458
+Kodiak Island Borough, Alaska	5,501
+Kusilvak Census Area, Alaska	2,237
+Lake and Peninsula Borough, Alaska	1,511
+Matanuska-Susitna Borough, Alaska	42,120
+Nome Census Area, Alaska	4,100
+North Slope Borough, Alaska	2,631
+Northwest Arctic Borough, Alaska	2,756
+Petersburg Borough, Alaska	1,712
+Prince of Wales-Hyder Census Area, Alaska	3,446
+Sitka City and Borough, Alaska	4,252
+Skagway Municipality, Alaska	719
+Southeast Fairbanks Census Area, Alaska	3,904
+Valdez-Cordova Census Area, Alaska	6,207
+Wrangell City and Borough, Alaska	1,464
+Yakutat City and Borough, Alaska	471
+Yukon-Koyukuk Census Area, Alaska	4,085
+Apache County, Arizona	33,023
+Cochise County, Arizona	61,601
+Coconino County, Arizona	67,504
+Gila County, Arizona	33,892
+Graham County, Arizona	13,770
+Greenlee County, Arizona	4,478
+La Paz County, Arizona	16,316
+Maricopa County, Arizona	1,789,190
+Mohave County, Arizona	116,207
+Navajo County, Arizona	58,502
+Pima County, Arizona	466,299
+Pinal County, Arizona	181,388
+Santa Cruz County, Arizona	18,524
+Yavapai County, Arizona	120,646
+Yuma County, Arizona	94,641
+Arkansas County, Arkansas	9,486
+Ashley County, Arkansas	10,191
+Baxter County, Arkansas	23,028
+Benton County, Arkansas	112,183
+Boone County, Arkansas	17,074
+Bradley County, Arkansas	5,809
+Calhoun County, Arkansas	2,934
+Carroll County, Arkansas	13,816
+Chicot County, Arkansas	5,427
+Clark County, Arkansas	10,600
+Clay County, Arkansas	8,011
+Cleburne County, Arkansas	16,162
+Cleveland County, Arkansas	4,142
+Columbia County, Arkansas	11,696
+Conway County, Arkansas	9,885
+Craighead County, Arkansas	46,934
+Crawford County, Arkansas	27,078
+Crittenden County, Arkansas	21,818
+Cross County, Arkansas	7,971
+Dallas County, Arkansas	4,348
+Desha County, Arkansas	6,309
+Drew County, Arkansas	8,682
+Faulkner County, Arkansas	50,609
+Franklin County, Arkansas	8,040
+Fulton County, Arkansas	6,859
+Garland County, Arkansas	51,015
+Grant County, Arkansas	8,079
+Greene County, Arkansas	19,328
+Hempstead County, Arkansas	10,547
+Hot Spring County, Arkansas	14,544
+Howard County, Arkansas	6,260
+Independence County, Arkansas	16,644
+Izard County, Arkansas	7,303
+Jackson County, Arkansas	7,602
+Jefferson County, Arkansas	33,394
+Johnson County, Arkansas	11,569
+Lafayette County, Arkansas	4,413
+Lawrence County, Arkansas	8,028
+Lee County, Arkansas	4,362
+Lincoln County, Arkansas	4,969
+Little River County, Arkansas	6,545
+Logan County, Arkansas	10,183
+Lonoke County, Arkansas	30,115
+Madison County, Arkansas	7,619
+Marion County, Arkansas	9,604
+Miller County, Arkansas	19,606
+Mississippi County, Arkansas	20,563
+Monroe County, Arkansas	4,434
+Montgomery County, Arkansas	5,877
+Nevada County, Arkansas	4,611
+Newton County, Arkansas	4,705
+Ouachita County, Arkansas	13,082
+Perry County, Arkansas	4,990
+Phillips County, Arkansas	10,263
+Pike County, Arkansas	5,648
+Poinsett County, Arkansas	11,031
+Polk County, Arkansas	10,150
+Pope County, Arkansas	26,479
+Prairie County, Arkansas	4,567
+Pulaski County, Arkansas	186,437
+Randolph County, Arkansas	8,641
+St Francis County, Arkansas	10,979
+Saline County, Arkansas	49,584
+Scott County, Arkansas	5,288
+Searcy County, Arkansas	4,948
+Sebastian County, Arkansas	57,407
+Sevier County, Arkansas	6,999
+Sharp County, Arkansas	9,900
+Stone County, Arkansas	6,962
+Union County, Arkansas	20,134
+Van Buren County, Arkansas	10,521
+Washington County, Arkansas	96,310
+White County, Arkansas	34,035
+Woodruff County, Arkansas	3,880
+Yell County, Arkansas	9,883
+Alameda County, California	622,922
+Alpine County, California	1,782
+Amador County, California	18,625
+Butte County, California	86,209
+Calaveras County, California	28,181
+Colusa County, California	8,125
+Contra Costa County, California	418,707
+Del Norte County, California	11,434
+El Dorado County, California	91,660
+Fresno County, California	336,473
+Glenn County, California	11,098
+Humboldt County, California	63,727
+Imperial County, California	58,280
+Inyo County, California	9,609
+Kern County, California	302,898
+Kings County, California	46,965
+Lake County, California	34,572
+Lassen County, California	12,784
+Los Angeles County, California	3,579,329
+Madera County, California	51,438
+Marin County, California	113,344
+Mariposa County, California	10,445
+Mendocino County, California	41,027
+Merced County, California	86,388
+Modoc County, California	5,276
+Mono County, California	14,208
+Monterey County, California	143,201
+Napa County, California	55,647
+Nevada County, California	54,809
+Orange County, California	1,118,110
+Placer County, California	168,919
+Plumas County, California	15,916
+Riverside County, California	857,148
+Sacramento County, California	578,937
+San Benito County, California	19,979
+San Bernardino County, California	731,400
+San Diego County, California	1,233,777
+San Francisco County, California	406,413
+San Joaquin County, California	248,636
+San Luis Obispo County, California	123,963
+San Mateo County, California	280,450
+Santa Barbara County, California	159,246
+Santa Clara County, California	686,266
+Santa Cruz County, California	107,149
+Shasta County, California	78,618
+Sierra County, California	2,368
+Siskiyou County, California	24,226
+Solano County, California	159,806
+Sonoma County, California	208,305
+Stanislaus County, California	182,978
+Sutter County, California	34,583
+Tehama County, California	27,840
+Trinity County, California	9,013
+Tulare County, California	151,603
+Tuolumne County, California	31,700
+Ventura County, California	291,512
+Yolo County, California	79,263
+Yuba County, California	29,049
+Adams County, Colorado	178,519
+Alamosa County, Colorado	7,160
+Arapahoe County, Colorado	257,325
+Archuleta County, Colorado	9,685
+Baca County, Colorado	2,259
+Bent County, Colorado	2,277
+Boulder County, Colorado	140,551
+Broomfield County, Colorado	29,675
+Chaffee County, Colorado	11,498
+Cheyenne County, Colorado	1,010
+Clear Creek County, Colorado	5,847
+Conejos County, Colorado	4,483
+Costilla County, Colorado	2,880
+Crowley County, Colorado	1,601
+Custer County, Colorado	4,495
+Delta County, Colorado	14,912
+Denver County, Colorado	338,341
+Dolores County, Colorado	1,738
+Douglas County, Colorado	132,251
+Eagle County, Colorado	33,174
+Elbert County, Colorado	9,991
+El Paso County, Colorado	280,718
+Fremont County, Colorado	20,088
+Garfield County, Colorado	24,363
+Gilpin County, Colorado	3,765
+Grand County, Colorado	17,146
+Gunnison County, Colorado	12,228
+Hinsdale County, Colorado	1,438
+Huerfano County, Colorado	5,333
+Jackson County, Colorado	1,338
+Jefferson County, Colorado	245,087
+Kiowa County, Colorado	826
+Kit Carson County, Colorado	3,577
+Lake County, Colorado	4,496
+La Plata County, Colorado	28,581
+Larimer County, Colorado	154,429
+Las Animas County, Colorado	8,626
+Lincoln County, Colorado	2,511
+Logan County, Colorado	9,148
+Mesa County, Colorado	68,124
+Mineral County, Colorado	1,304
+Moffat County, Colorado	6,342
+Montezuma County, Colorado	12,422
+Montrose County, Colorado	19,599
+Morgan County, Colorado	11,989
+Otero County, Colorado	9,003
+Ouray County, Colorado	3,392
+Park County, Colorado	14,865
+Phillips County, Colorado	2,161
+Pitkin County, Colorado	14,232
+Prowers County, Colorado	5,992
+Pueblo County, Colorado	71,906
+Rio Blanco County, Colorado	3,421
+Rio Grande County, Colorado	6,851
+Routt County, Colorado	17,114
+Saguache County, Colorado	4,329
+San Juan County, Colorado	793
+San Miguel County, Colorado	6,989
+Sedgwick County, Colorado	1,432
+Summit County, Colorado	32,085
+Teller County, Colorado	13,511
+Washington County, Colorado	2,476
+Weld County, Colorado	115,897
+Yuma County, Colorado	4,565
+Fairfield County, Connecticut	375,360
+Hartford County, Connecticut	381,401
+Litchfield County, Connecticut	88,428
+Middlesex County, Connecticut	76,649
+New Haven County, Connecticut	368,670
+New London County, Connecticut	124,233
+Tolland County, Connecticut	60,285
+Windham County, Connecticut	49,966
+Kent County, Delaware	74,462
+New Castle County, Delaware	225,245
+Sussex County, Delaware	144,074
+District of Columbia, District of Columbia	322,793
+Alachua County, Florida	120,226
+Baker County, Florida	10,215
+Bay County, Florida	104,768
+Bradford County, Florida	11,054
+Brevard County, Florida	282,833
+Broward County, Florida	828,521
+Calhoun County, Florida	5,962
+Charlotte County, Florida	107,124
+Citrus County, Florida	80,895
+Clay County, Florida	82,617
+Collier County, Florida	222,284
+Columbia County, Florida	29,300
+DeSoto County, Florida	15,351
+Dixie County, Florida	9,536
+Duval County, Florida	418,708
+Escambia County, Florida	143,228
+Flagler County, Florida	53,833
+Franklin County, Florida	8,840
+Gadsden County, Florida	21,728
+Gilchrist County, Florida	7,675
+Glades County, Florida	7,133
+Gulf County, Florida	9,736
+Hamilton County, Florida	5,845
+Hardee County, Florida	9,816
+Hendry County, Florida	14,977
+Hernando County, Florida	88,708
+Highlands County, Florida	56,107
+Hillsborough County, Florida	599,456
+Holmes County, Florida	8,725
+Indian River County, Florida	82,252
+Jackson County, Florida	21,083
+Jefferson County, Florida	6,856
+Lafayette County, Florida	3,411
+Lake County, Florida	163,586
+Lee County, Florida	408,561
+Leon County, Florida	132,789
+Levy County, Florida	20,942
+Liberty County, Florida	3,459
+Madison County, Florida	8,710
+Manatee County, Florida	198,819
+Marion County, Florida	173,190
+Martin County, Florida	80,784
+Miami-Dade County, Florida	1,040,666
+Monroe County, Florida	53,892
+Nassau County, Florida	41,234
+Okaloosa County, Florida	98,619
+Okeechobee County, Florida	18,788
+Orange County, Florida	556,896
+Osceola County, Florida	162,661
+Palm Beach County, Florida	693,140
+Pasco County, Florida	250,658
+Pinellas County, Florida	511,756
+Polk County, Florida	304,429
+Putnam County, Florida	37,611
+St Johns County, Florida	116,385
+St Lucie County, Florida	146,068
+Santa Rosa County, Florida	74,433
+Sarasota County, Florida	249,415
+Seminole County, Florida	193,936
+Sumter County, Florida	74,242
+Suwannee County, Florida	19,551
+Taylor County, Florida	11,174
+Union County, Florida	4,683
+Volusia County, Florida	264,113
+Wakulla County, Florida	13,897
+Walton County, Florida	54,801
+Washington County, Florida	10,991
+Appling County, Georgia	8,613
+Atkinson County, Georgia	3,517
+Bacon County, Georgia	4,821
+Baker County, Georgia	1,664
+Baldwin County, Georgia	20,725
+Banks County, Georgia	7,838
+Barrow County, Georgia	29,782
+Bartow County, Georgia	42,298
+Ben Hill County, Georgia	8,066
+Berrien County, Georgia	8,848
+Bibb County, Georgia	70,019
+Bleckley County, Georgia	5,324
+Brantley County, Georgia	8,224
+Brooks County, Georgia	7,849
+Bryan County, Georgia	15,272
+Bulloch County, Georgia	31,851
+Burke County, Georgia	10,161
+Butts County, Georgia	9,515
+Calhoun County, Georgia	2,406
+Camden County, Georgia	22,606
+Candler County, Georgia	4,797
+Carroll County, Georgia	46,013
+Catoosa County, Georgia	27,735
+Charlton County, Georgia	4,564
+Chatham County, Georgia	127,433
+Chattahoochee County, Georgia	3,335
+Chattooga County, Georgia	11,051
+Cherokee County, Georgia	97,492
+Clarke County, Georgia	53,633
+Clay County, Georgia	2,130
+Clayton County, Georgia	106,360
+Clinch County, Georgia	3,018
+Cobb County, Georgia	304,819
+Coffee County, Georgia	17,422
+Colquitt County, Georgia	18,753
+Columbia County, Georgia	59,836
+Cook County, Georgia	7,487
+Coweta County, Georgia	56,539
+Crawford County, Georgia	5,409
+Crisp County, Georgia	10,811
+Dade County, Georgia	7,329
+Dawson County, Georgia	12,208
+Decatur County, Georgia	12,245
+DeKalb County, Georgia	317,646
+Dodge County, Georgia	9,849
+Dooly County, Georgia	6,238
+Dougherty County, Georgia	40,507
+Douglas County, Georgia	53,384
+Early County, Georgia	4,981
+Echols County, Georgia	1,604
+Effingham County, Georgia	23,996
+Elbert County, Georgia	9,672
+Emanuel County, Georgia	9,937
+Evans County, Georgia	4,772
+Fannin County, Georgia	17,744
+Fayette County, Georgia	43,488
+Floyd County, Georgia	40,774
+Forsyth County, Georgia	87,537
+Franklin County, Georgia	10,778
+Fulton County, Georgia	488,670
+Gilmer County, Georgia	17,440
+Glascock County, Georgia	1,541
+Glynn County, Georgia	44,004
+Gordon County, Georgia	22,886
+Grady County, Georgia	10,947
+Greene County, Georgia	10,468
+Gwinnett County, Georgia	316,334
+Habersham County, Georgia	18,750
+Hall County, Georgia	76,167
+Hancock County, Georgia	5,436
+Haralson County, Georgia	12,605
+Harris County, Georgia	14,529
+Hart County, Georgia	13,331
+Heard County, Georgia	5,253
+Henry County, Georgia	84,536
+Houston County, Georgia	65,050
+Irwin County, Georgia	4,104
+Jackson County, Georgia	26,778
+Jasper County, Georgia	6,578
+Jeff Davis County, Georgia	6,543
+Jefferson County, Georgia	7,283
+Jenkins County, Georgia	4,251
+Johnson County, Georgia	4,122
+Jones County, Georgia	11,954
+Lamar County, Georgia	7,665
+Lanier County, Georgia	4,458
+Laurens County, Georgia	21,633
+Lee County, Georgia	11,543
+Liberty County, Georgia	28,762
+Lincoln County, Georgia	4,923
+Long County, Georgia	7,161
+Lowndes County, Georgia	49,490
+Lumpkin County, Georgia	13,863
+McDuffie County, Georgia	9,378
+McIntosh County, Georgia	9,674
+Macon County, Georgia	6,106
+Madison County, Georgia	12,031
+Marion County, Georgia	4,239
+Meriwether County, Georgia	10,061
+Miller County, Georgia	2,748
+Mitchell County, Georgia	9,087
+Monroe County, Georgia	11,350
+Montgomery County, Georgia	4,001
+Morgan County, Georgia	7,972
+Murray County, Georgia	16,261
+Muscogee County, Georgia	85,235
+Newton County, Georgia	40,262
+Oconee County, Georgia	14,949
+Oglethorpe County, Georgia	6,754
+Paulding County, Georgia	59,634
+Peach County, Georgia	11,747
+Pickens County, Georgia	14,209
+Pierce County, Georgia	8,269
+Pike County, Georgia	7,172
+Polk County, Georgia	17,132
+Pulaski County, Georgia	5,177
+Putnam County, Georgia	13,380
+Quitman County, Georgia	2,079
+Rabun County, Georgia	12,722
+Randolph County, Georgia	4,099
+Richmond County, Georgia	89,459
+Rockdale County, Georgia	34,080
+Schley County, Georgia	2,230
+Screven County, Georgia	6,821
+Seminole County, Georgia	4,813
+Spalding County, Georgia	27,795
+Stephens County, Georgia	12,615
+Stewart County, Georgia	2,341
+Sumter County, Georgia	13,879
+Talbot County, Georgia	3,443
+Taliaferro County, Georgia	1,026
+Tattnall County, Georgia	10,082
+Taylor County, Georgia	4,627
+Telfair County, Georgia	7,312
+Terrell County, Georgia	4,165
+Thomas County, Georgia	20,896
+Tift County, Georgia	16,966
+Toombs County, Georgia	12,249
+Towns County, Georgia	8,363
+Treutlen County, Georgia	3,037
+Troup County, Georgia	28,732
+Turner County, Georgia	3,942
+Twiggs County, Georgia	4,278
+Union County, Georgia	14,995
+Upson County, Georgia	12,140
+Walker County, Georgia	30,531
+Walton County, Georgia	34,799
+Ware County, Georgia	16,903
+Warren County, Georgia	2,987
+Washington County, Georgia	9,490
+Wayne County, Georgia	12,364
+Webster County, Georgia	1,544
+Wheeler County, Georgia	2,635
+White County, Georgia	16,409
+Whitfield County, Georgia	40,371
+Wilcox County, Georgia	3,533
+Wilkes County, Georgia	5,156
+Wilkinson County, Georgia	4,502
+Worth County, Georgia	9,370
+Hawaii County, Hawaii	89,346
+Honolulu County, Hawaii	354,677
+Kalawao County, Hawaii	112
+Kauai County, Hawaii	31,577
+Maui County, Hawaii	74,561
+Ada County, Idaho	192,630
+Adams County, Idaho	2,705
+Bannock County, Idaho	34,852
+Bear Lake County, Idaho	4,204
+Benewah County, Idaho	4,790
+Bingham County, Idaho	17,003
+Blaine County, Idaho	15,600
+Boise County, Idaho	5,697
+Bonner County, Idaho	25,360
+Bonneville County, Idaho	44,564
+Boundary County, Idaho	5,591
+Butte County, Idaho	1,381
+Camas County, Idaho	875
+Canyon County, Idaho	80,055
+Caribou County, Idaho	3,333
+Cassia County, Idaho	8,925
+Clark County, Idaho	562
+Clearwater County, Idaho	4,668
+Custer County, Idaho	3,161
+Elmore County, Idaho	12,577
+Franklin County, Idaho	4,946
+Fremont County, Idaho	9,186
+Gem County, Idaho	7,507
+Gooding County, Idaho	6,290
+Idaho County, Idaho	8,783
+Jefferson County, Idaho	9,768
+Jerome County, Idaho	8,664
+Kootenai County, Idaho	74,624
+Latah County, Idaho	17,364
+Lemhi County, Idaho	4,948
+Lewis County, Idaho	1,991
+Lincoln County, Idaho	2,017
+Madison County, Idaho	15,366
+Minidoka County, Idaho	8,504
+Nez Perce County, Idaho	18,004
+Oneida County, Idaho	2,019
+Owyhee County, Idaho	4,994
+Payette County, Idaho	9,620
+Power County, Idaho	3,043
+Shoshone County, Idaho	7,164
+Teton County, Idaho	6,172
+Twin Falls County, Idaho	34,199
+Valley County, Idaho	12,710
+Washington County, Idaho	4,689
+Adams County, Illinois	30,244
+Alexander County, Illinois	3,962
+Bond County, Illinois	7,278
+Boone County, Illinois	20,093
+Brown County, Illinois	2,454
+Bureau County, Illinois	15,664
+Calhoun County, Illinois	2,901
+Carroll County, Illinois	8,474
+Cass County, Illinois	5,824
+Champaign County, Illinois	94,690
+Christian County, Illinois	15,600
+Clark County, Illinois	7,826
+Clay County, Illinois	6,459
+Clinton County, Illinois	16,003
+Coles County, Illinois	23,459
+Cook County, Illinois	2,204,019
+Crawford County, Illinois	8,695
+Cumberland County, Illinois	4,868
+DeKalb County, Illinois	41,308
+De Witt County, Illinois	7,582
+Douglas County, Illinois	8,475
+DuPage County, Illinois	362,182
+Edgar County, Illinois	8,818
+Edwards County, Illinois	3,193
+Effingham County, Illinois	14,959
+Fayette County, Illinois	9,305
+Ford County, Illinois	6,353
+Franklin County, Illinois	18,636
+Fulton County, Illinois	16,368
+Gallatin County, Illinois	2,743
+Greene County, Illinois	6,425
+Grundy County, Illinois	21,330
+Hamilton County, Illinois	4,102
+Hancock County, Illinois	9,232
+Hardin County, Illinois	2,484
+Henderson County, Illinois	3,863
+Henry County, Illinois	22,147
+Iroquois County, Illinois	13,502
+Jackson County, Illinois	28,941
+Jasper County, Illinois	4,343
+Jefferson County, Illinois	17,039
+Jersey County, Illinois	10,173
+Jo Daviess County, Illinois	13,739
+Johnson County, Illinois	5,639
+Kane County, Illinois	190,970
+Kankakee County, Illinois	45,747
+Kendall County, Illinois	42,894
+Knox County, Illinois	23,870
+Lake County, Illinois	265,507
+LaSalle County, Illinois	50,176
+Lawrence County, Illinois	7,223
+Lee County, Illinois	15,088
+Livingston County, Illinois	15,907
+Logan County, Illinois	12,029
+McDonough County, Illinois	14,391
+McHenry County, Illinois	119,173
+McLean County, Illinois	72,764
+Macon County, Illinois	50,305
+Macoupin County, Illinois	21,800
+Madison County, Illinois	120,024
+Marion County, Illinois	18,280
+Marshall County, Illinois	5,900
+Mason County, Illinois	7,039
+Massac County, Illinois	7,103
+Menard County, Illinois	5,748
+Mercer County, Illinois	7,416
+Monroe County, Illinois	14,454
+Montgomery County, Illinois	13,136
+Morgan County, Illinois	15,461
+Moultrie County, Illinois	6,569
+Ogle County, Illinois	22,724
+Peoria County, Illinois	83,631
+Perry County, Illinois	9,675
+Piatt County, Illinois	7,450
+Pike County, Illinois	8,002
+Pope County, Illinois	2,502
+Pulaski County, Illinois	3,178
+Putnam County, Illinois	3,175
+Randolph County, Illinois	13,971
+Richland County, Illinois	7,519
+Rock Island County, Illinois	66,171
+St Clair County, Illinois	121,079
+Saline County, Illinois	11,706
+Sangamon County, Illinois	92,278
+Schuyler County, Illinois	3,446
+Scott County, Illinois	2,451
+Shelby County, Illinois	10,639
+Stark County, Illinois	2,655
+Stephenson County, Illinois	21,879
+Tazewell County, Illinois	58,958
+Union County, Illinois	8,010
+Vermilion County, Illinois	36,100
+Wabash County, Illinois	5,572
+Warren County, Illinois	7,677
+Washington County, Illinois	6,682
+Wayne County, Illinois	8,009
+White County, Illinois	7,164
+Whiteside County, Illinois	25,809
+Will County, Illinois	246,655
+Williamson County, Illinois	31,570
+Winnebago County, Illinois	125,708
+Woodford County, Illinois	15,653
+Adams County, Indiana	13,403
+Allen County, Indiana	160,687
+Bartholomew County, Indiana	34,687
+Benton County, Indiana	3,939
+Blackford County, Indiana	6,007
+Boone County, Indiana	27,992
+Brown County, Indiana	8,817
+Carroll County, Indiana	9,705
+Cass County, Indiana	16,340
+Clark County, Indiana	51,683
+Clay County, Indiana	11,767
+Clinton County, Indiana	13,423
+Crawford County, Indiana	5,569
+Daviess County, Indiana	12,565
+Dearborn County, Indiana	20,679
+Decatur County, Indiana	11,477
+DeKalb County, Indiana	18,273
+Delaware County, Indiana	52,713
+Dubois County, Indiana	17,994
+Elkhart County, Indiana	79,756
+Fayette County, Indiana	10,810
+Floyd County, Indiana	33,159
+Fountain County, Indiana	7,995
+Franklin County, Indiana	9,878
+Fulton County, Indiana	9,742
+Gibson County, Indiana	15,483
+Grant County, Indiana	30,527
+Greene County, Indiana	15,306
+Hamilton County, Indiana	132,345
+Hancock County, Indiana	31,171
+Harrison County, Indiana	17,298
+Hendricks County, Indiana	63,952
+Henry County, Indiana	21,250
+Howard County, Indiana	39,847
+Huntington County, Indiana	16,168
+Jackson County, Indiana	19,471
+Jasper County, Indiana	13,713
+Jay County, Indiana	9,258
+Jefferson County, Indiana	14,535
+Jennings County, Indiana	12,410
+Johnson County, Indiana	62,521
+Knox County, Indiana	17,169
+Kosciusko County, Indiana	39,085
+LaGrange County, Indiana	15,045
+Lake County, Indiana	214,685
+LaPorte County, Indiana	49,315
+Lawrence County, Indiana	21,176
+Madison County, Indiana	59,164
+Marion County, Indiana	426,024
+Marshall County, Indiana	20,398
+Martin County, Indiana	4,828
+Miami County, Indiana	15,415
+Monroe County, Indiana	62,390
+Montgomery County, Indiana	16,727
+Morgan County, Indiana	28,650
+Newton County, Indiana	6,098
+Noble County, Indiana	20,767
+Ohio County, Indiana	2,882
+Orange County, Indiana	9,241
+Owen County, Indiana	10,293
+Parke County, Indiana	8,297
+Perry County, Indiana	8,749
+Pike County, Indiana	5,805
+Porter County, Indiana	69,853
+Posey County, Indiana	11,580
+Pulaski County, Indiana	6,127
+Putnam County, Indiana	15,280
+Randolph County, Indiana	11,693
+Ripley County, Indiana	12,513
+Rush County, Indiana	7,501
+St Joseph County, Indiana	117,522
+Scott County, Indiana	10,704
+Shelby County, Indiana	19,500
+Spencer County, Indiana	9,182
+Starke County, Indiana	11,222
+Steuben County, Indiana	20,270
+Sullivan County, Indiana	8,990
+Switzerland County, Indiana	5,463
+Tippecanoe County, Indiana	78,324
+Tipton County, Indiana	7,028
+Union County, Indiana	3,270
+Vanderburgh County, Indiana	84,629
+Vermillion County, Indiana	7,498
+Vigo County, Indiana	47,535
+Wabash County, Indiana	14,181
+Warren County, Indiana	3,779
+Warrick County, Indiana	26,632
+Washington County, Indiana	12,513
+Wayne County, Indiana	31,523
+Wells County, Indiana	11,969
+White County, Indiana	13,192
+Whitley County, Indiana	15,041
+Adair County, Iowa	3,718
+Adams County, Iowa	2,012
+Allamakee County, Iowa	7,857
+Appanoose County, Iowa	6,646
+Audubon County, Iowa	3,012
+Benton County, Iowa	11,189
+Black Hawk County, Iowa	58,457
+Boone County, Iowa	12,074
+Bremer County, Iowa	10,590
+Buchanan County, Iowa	9,125
+Buena Vista County, Iowa	8,295
+Butler County, Iowa	6,818
+Calhoun County, Iowa	5,147
+Carroll County, Iowa	9,564
+Cass County, Iowa	6,574
+Cedar County, Iowa	8,271
+Cerro Gordo County, Iowa	22,369
+Cherokee County, Iowa	5,775
+Chickasaw County, Iowa	5,697
+Clarke County, Iowa	4,414
+Clay County, Iowa	8,295
+Clayton County, Iowa	9,164
+Clinton County, Iowa	22,226
+Crawford County, Iowa	7,068
+Dallas County, Iowa	38,984
+Davis County, Iowa	3,598
+Decatur County, Iowa	3,851
+Delaware County, Iowa	8,103
+Des Moines County, Iowa	18,615
+Dickinson County, Iowa	14,283
+Dubuque County, Iowa	41,760
+Emmet County, Iowa	4,824
+Fayette County, Iowa	9,598
+Floyd County, Iowa	7,588
+Franklin County, Iowa	4,843
+Fremont County, Iowa	3,436
+Greene County, Iowa	4,542
+Grundy County, Iowa	5,587
+Guthrie County, Iowa	5,828
+Hamilton County, Iowa	7,225
+Hancock County, Iowa	5,347
+Hardin County, Iowa	8,168
+Harrison County, Iowa	6,875
+Henry County, Iowa	8,459
+Howard County, Iowa	4,369
+Humboldt County, Iowa	4,748
+Ida County, Iowa	3,449
+Iowa County, Iowa	7,358
+Jackson County, Iowa	9,613
+Jasper County, Iowa	16,391
+Jefferson County, Iowa	7,717
+Johnson County, Iowa	66,257
+Jones County, Iowa	8,998
+Keokuk County, Iowa	4,868
+Kossuth County, Iowa	7,516
+Lee County, Iowa	16,235
+Linn County, Iowa	98,821
+Louisa County, Iowa	5,060
+Lucas County, Iowa	4,204
+Lyon County, Iowa	5,110
+Madison County, Iowa	7,198
+Mahaska County, Iowa	9,898
+Marion County, Iowa	14,374
+Marshall County, Iowa	16,888
+Mills County, Iowa	6,060
+Mitchell County, Iowa	5,006
+Monona County, Iowa	4,723
+Monroe County, Iowa	4,025
+Montgomery County, Iowa	5,230
+Muscatine County, Iowa	18,199
+O'Brien County, Iowa	6,702
+Osceola County, Iowa	2,956
+Page County, Iowa	7,187
+Palo Alto County, Iowa	4,597
+Plymouth County, Iowa	10,989
+Pocahontas County, Iowa	3,746
+Polk County, Iowa	207,878
+Pottawattamie County, Iowa	40,101
+Poweshiek County, Iowa	9,164
+Ringgold County, Iowa	2,614
+Sac County, Iowa	5,400
+Scott County, Iowa	74,929
+Shelby County, Iowa	5,591
+Sioux County, Iowa	13,141
+Story County, Iowa	41,317
+Tama County, Iowa	7,784
+Taylor County, Iowa	3,109
+Union County, Iowa	5,946
+Van Buren County, Iowa	3,651
+Wapello County, Iowa	16,092
+Warren County, Iowa	20,666
+Washington County, Iowa	9,830
+Wayne County, Iowa	3,191
+Webster County, Iowa	17,053
+Winnebago County, Iowa	5,198
+Winneshiek County, Iowa	9,057
+Woodbury County, Iowa	42,518
+Worth County, Iowa	3,514
+Wright County, Iowa	6,519
+Allen County, Kansas	6,342
+Anderson County, Kansas	3,755
+Atchison County, Kansas	6,947
+Barber County, Kansas	2,735
+Barton County, Kansas	12,754
+Bourbon County, Kansas	7,108
+Brown County, Kansas	4,733
+Butler County, Kansas	27,221
+Chase County, Kansas	1,491
+Chautauqua County, Kansas	2,137
+Cherokee County, Kansas	9,891
+Cheyenne County, Kansas	1,500
+Clark County, Kansas	1,132
+Clay County, Kansas	4,128
+Cloud County, Kansas	4,593
+Coffey County, Kansas	4,148
+Comanche County, Kansas	1,028
+Cowley County, Kansas	16,209
+Crawford County, Kansas	18,245
+Decatur County, Kansas	1,795
+Dickinson County, Kansas	9,197
+Doniphan County, Kansas	3,578
+Douglas County, Kansas	51,778
+Edwards County, Kansas	1,619
+Elk County, Kansas	1,755
+Ellis County, Kansas	13,326
+Ellsworth County, Kansas	3,223
+Finney County, Kansas	13,634
+Ford County, Kansas	12,325
+Franklin County, Kansas	11,327
+Geary County, Kansas	15,346
+Gove County, Kansas	1,492
+Graham County, Kansas	1,481
+Grant County, Kansas	2,969
+Gray County, Kansas	2,449
+Greeley County, Kansas	637
+Greenwood County, Kansas	4,032
+Hamilton County, Kansas	1,227
+Harper County, Kansas	3,160
+Harvey County, Kansas	14,872
+Haskell County, Kansas	1,687
+Hodgeman County, Kansas	970
+Jackson County, Kansas	5,900
+Jefferson County, Kansas	8,477
+Jewell County, Kansas	2,015
+Johnson County, Kansas	248,495
+Kearny County, Kansas	1,568
+Kingman County, Kansas	3,861
+Kiowa County, Kansas	1,239
+Labette County, Kansas	10,032
+Lane County, Kansas	975
+Leavenworth County, Kansas	30,242
+Lincoln County, Kansas	1,845
+Linn County, Kansas	5,694
+Logan County, Kansas	1,445
+Lyon County, Kansas	15,409
+McPherson County, Kansas	13,418
+Marion County, Kansas	6,008
+Marshall County, Kansas	4,920
+Meade County, Kansas	2,000
+Miami County, Kansas	14,034
+Mitchell County, Kansas	3,304
+Montgomery County, Kansas	16,440
+Morris County, Kansas	3,213
+Morton County, Kansas	1,455
+Nemaha County, Kansas	4,613
+Neosho County, Kansas	7,732
+Ness County, Kansas	1,726
+Norton County, Kansas	2,548
+Osage County, Kansas	7,648
+Osborne County, Kansas	2,176
+Ottawa County, Kansas	2,790
+Pawnee County, Kansas	3,146
+Phillips County, Kansas	3,086
+Pottawatomie County, Kansas	9,973
+Pratt County, Kansas	4,468
+Rawlins County, Kansas	1,460
+Reno County, Kansas	28,532
+Republic County, Kansas	2,875
+Rice County, Kansas	4,600
+Riley County, Kansas	31,409
+Rooks County, Kansas	2,745
+Rush County, Kansas	1,842
+Russell County, Kansas	3,893
+Saline County, Kansas	24,425
+Scott County, Kansas	2,233
+Sedgwick County, Kansas	222,269
+Seward County, Kansas	8,275
+Shawnee County, Kansas	80,227
+Sheridan County, Kansas	1,252
+Sherman County, Kansas	3,116
+Smith County, Kansas	2,232
+Stafford County, Kansas	2,352
+Stanton County, Kansas	996
+Stevens County, Kansas	2,331
+Sumner County, Kansas	11,026
+Thomas County, Kansas	3,614
+Trego County, Kansas	1,662
+Wabaunsee County, Kansas	3,320
+Wallace County, Kansas	773
+Washington County, Kansas	2,933
+Wichita County, Kansas	1,051
+Wilson County, Kansas	4,664
+Woodson County, Kansas	2,026
+Wyandotte County, Kansas	68,397
+Adair County, Kentucky	8,632
+Allen County, Kentucky	9,526
+Anderson County, Kentucky	9,539
+Ballard County, Kentucky	3,924
+Barren County, Kentucky	19,928
+Bath County, Kentucky	5,539
+Bell County, Kentucky	13,272
+Boone County, Kentucky	50,589
+Bourbon County, Kentucky	9,103
+Boyd County, Kentucky	21,628
+Boyle County, Kentucky	12,523
+Bracken County, Kentucky	3,882
+Breathitt County, Kentucky	6,399
+Breckinridge County, Kentucky	10,864
+Bullitt County, Kentucky	32,263
+Butler County, Kentucky	5,984
+Caldwell County, Kentucky	6,287
+Calloway County, Kentucky	19,000
+Campbell County, Kentucky	40,857
+Carlisle County, Kentucky	2,478
+Carroll County, Kentucky	4,738
+Carter County, Kentucky	12,563
+Casey County, Kentucky	7,560
+Christian County, Kentucky	29,987
+Clark County, Kentucky	16,018
+Clay County, Kentucky	9,092
+Clinton County, Kentucky	5,331
+Crittenden County, Kentucky	4,587
+Cumberland County, Kentucky	3,671
+Daviess County, Kentucky	43,481
+Edmonson County, Kentucky	6,604
+Elliott County, Kentucky	3,473
+Estill County, Kentucky	6,949
+Fayette County, Kentucky	144,094
+Fleming County, Kentucky	6,733
+Floyd County, Kentucky	18,623
+Franklin County, Kentucky	23,307
+Fulton County, Kentucky	3,329
+Gallatin County, Kentucky	3,961
+Garrard County, Kentucky	7,501
+Grant County, Kentucky	10,318
+Graves County, Kentucky	16,893
+Grayson County, Kentucky	13,739
+Green County, Kentucky	5,318
+Greenup County, Kentucky	16,309
+Hancock County, Kentucky	3,753
+Hardin County, Kentucky	47,248
+Harlan County, Kentucky	13,606
+Harrison County, Kentucky	8,362
+Hart County, Kentucky	9,298
+Henderson County, Kentucky	20,556
+Henry County, Kentucky	6,827
+Hickman County, Kentucky	2,360
+Hopkins County, Kentucky	21,505
+Jackson County, Kentucky	6,643
+Jefferson County, Kentucky	349,321
+Jessamine County, Kentucky	20,797
+Johnson County, Kentucky	10,666
+Kenton County, Kentucky	69,894
+Knott County, Kentucky	7,687
+Knox County, Kentucky	14,824
+Larue County, Kentucky	6,437
+Laurel County, Kentucky	26,007
+Lawrence County, Kentucky	7,485
+Lee County, Kentucky	3,494
+Leslie County, Kentucky	5,429
+Letcher County, Kentucky	11,802
+Lewis County, Kentucky	6,595
+Lincoln County, Kentucky	11,094
+Livingston County, Kentucky	4,889
+Logan County, Kentucky	12,357
+Lyon County, Kentucky	4,928
+McCracken County, Kentucky	32,300
+McCreary County, Kentucky	7,534
+McLean County, Kentucky	4,298
+Madison County, Kentucky	37,294
+Magoffin County, Kentucky	6,134
+Marion County, Kentucky	8,372
+Marshall County, Kentucky	16,306
+Martin County, Kentucky	5,329
+Mason County, Kentucky	8,159
+Meade County, Kentucky	12,599
+Menifee County, Kentucky	3,807
+Mercer County, Kentucky	10,201
+Metcalfe County, Kentucky	4,753
+Monroe County, Kentucky	5,272
+Montgomery County, Kentucky	12,188
+Morgan County, Kentucky	6,043
+Muhlenberg County, Kentucky	13,841
+Nelson County, Kentucky	19,379
+Nicholas County, Kentucky	3,298
+Ohio County, Kentucky	10,460
+Oldham County, Kentucky	22,491
+Owen County, Kentucky	5,765
+Owsley County, Kentucky	2,364
+Pendleton County, Kentucky	6,386
+Perry County, Kentucky	13,066
+Pike County, Kentucky	31,150
+Powell County, Kentucky	5,711
+Pulaski County, Kentucky	31,529
+Robertson County, Kentucky	1,107
+Rockcastle County, Kentucky	7,901
+Rowan County, Kentucky	10,411
+Russell County, Kentucky	10,203
+Scott County, Kentucky	23,110
+Shelby County, Kentucky	18,448
+Simpson County, Kentucky	8,033
+Spencer County, Kentucky	7,521
+Taylor County, Kentucky	10,998
+Todd County, Kentucky	5,370
+Trigg County, Kentucky	7,977
+Trimble County, Kentucky	4,017
+Union County, Kentucky	6,249
+Warren County, Kentucky	55,942
+Washington County, Kentucky	5,228
+Wayne County, Kentucky	10,971
+Webster County, Kentucky	5,983
+Whitley County, Kentucky	15,530
+Wolfe County, Kentucky	3,754
+Woodford County, Kentucky	11,316
+Acadia Parish, Louisiana	26,657
+Allen Parish, Louisiana	10,052
+Ascension Parish, Louisiana	49,462
+Assumption Parish, Louisiana	10,939
+Avoyelles Parish, Louisiana	18,690
+Beauregard Parish, Louisiana	16,223
+Bienville Parish, Louisiana	7,945
+Bossier Parish, Louisiana	58,307
+Caddo Parish, Louisiana	113,577
+Calcasieu Parish, Louisiana	93,183
+Caldwell Parish, Louisiana	5,288
+Cameron Parish, Louisiana	4,277
+Catahoula Parish, Louisiana	5,043
+Claiborne Parish, Louisiana	7,910
+Concordia Parish, Louisiana	9,686
+De Soto Parish, Louisiana	13,400
+East Baton Rouge Parish, Louisiana	196,145
+East Carroll Parish, Louisiana	2,896
+East Feliciana Parish, Louisiana	8,645
+Evangeline Parish, Louisiana	15,145
+Franklin Parish, Louisiana	9,403
+Grant Parish, Louisiana	9,487
+Iberia Parish, Louisiana	30,819
+Iberville Parish, Louisiana	13,637
+Jackson Parish, Louisiana	7,957
+Jefferson Parish, Louisiana	188,656
+Jefferson Davis Parish, Louisiana	14,156
+Lafayette Parish, Louisiana	105,058
+Lafourche Parish, Louisiana	41,920
+LaSalle Parish, Louisiana	6,764
+Lincoln Parish, Louisiana	20,576
+Livingston Parish, Louisiana	58,646
+Madison Parish, Louisiana	5,237
+Morehouse Parish, Louisiana	12,736
+Natchitoches Parish, Louisiana	19,341
+Orleans Parish, Louisiana	192,237
+Ouachita Parish, Louisiana	69,471
+Plaquemines Parish, Louisiana	10,342
+Pointe Coupee Parish, Louisiana	11,730
+Rapides Parish, Louisiana	58,721
+Red River Parish, Louisiana	4,247
+Richland Parish, Louisiana	9,068
+Sabine Parish, Louisiana	15,332
+St Bernard Parish, Louisiana	17,268
+St Charles Parish, Louisiana	21,000
+St Helena Parish, Louisiana	5,418
+St James Parish, Louisiana	9,036
+St John the Baptist Parish, Louisiana	17,879
+St Landry Parish, Louisiana	37,241
+St Martin Parish, Louisiana	23,821
+St Mary Parish, Louisiana	23,598
+St Tammany Parish, Louisiana	105,699
+Tangipahoa Parish, Louisiana	57,547
+Tensas Parish, Louisiana	3,455
+Terrebonne Parish, Louisiana	45,766
+Union Parish, Louisiana	12,027
+Vermilion Parish, Louisiana	26,935
+Vernon Parish, Louisiana	22,385
+Washington Parish, Louisiana	21,962
+Webster Parish, Louisiana	19,884
+West Baton Rouge Parish, Louisiana	11,752
+West Carroll Parish, Louisiana	5,204
+West Feliciana Parish, Louisiana	5,547
+Winn Parish, Louisiana	7,342
+Androscoggin County, Maine	50,310
+Aroostook County, Maine	40,048
+Cumberland County, Maine	147,039
+Franklin County, Maine	22,386
+Hancock County, Maine	41,683
+Kennebec County, Maine	63,231
+Knox County, Maine	24,579
+Lincoln County, Maine	24,162
+Oxford County, Maine	37,274
+Penobscot County, Maine	76,352
+Piscataquis County, Maine	15,529
+Sagadahoc County, Maine	19,054
+Somerset County, Maine	31,028
+Waldo County, Maine	22,758
+Washington County, Maine	23,426
+York County, Maine	112,080
+Allegany County, Maryland	32,737
+Anne Arundel County, Maryland	227,936
+Baltimore County, Maryland	338,291
+Calvert County, Maryland	35,514
+Caroline County, Maryland	13,660
+Carroll County, Maryland	63,974
+Cecil County, Maryland	42,745
+Charles County, Maryland	61,838
+Dorchester County, Maryland	16,765
+Frederick County, Maryland	100,803
+Garrett County, Maryland	19,458
+Harford County, Maryland	101,600
+Howard County, Maryland	122,593
+Kent County, Maryland	10,689
+Montgomery County, Maryland	391,006
+Prince George's County, Maryland	335,752
+Queen Anne's County, Maryland	21,539
+St Mary's County, Maryland	46,807
+Somerset County, Maryland	11,476
+Talbot County, Maryland	20,294
+Washington County, Maryland	61,767
+Wicomico County, Maryland	42,531
+Worcester County, Maryland	56,652
+Baltimore city, Maryland	293,889
+Barnstable County, Massachusetts	164,674
+Berkshire County, Massachusetts	69,212
+Bristol County, Massachusetts	236,915
+Dukes County, Massachusetts	18,146
+Essex County, Massachusetts	314,723
+Franklin County, Massachusetts	34,207
+Hampden County, Massachusetts	193,890
+Hampshire County, Massachusetts	64,383
+Middlesex County, Massachusetts	645,291
+Nantucket County, Massachusetts	12,675
+Norfolk County, Massachusetts	281,778
+Plymouth County, Massachusetts	209,542
+Suffolk County, Massachusetts	345,414
+Worcester County, Massachusetts	337,882
+Alcona County, Michigan	11,241
+Alger County, Michigan	6,718
+Allegan County, Michigan	51,987
+Alpena County, Michigan	16,076
+Antrim County, Michigan	18,193
+Arenac County, Michigan	9,885
+Baraga County, Michigan	5,306
+Barry County, Michigan	27,975
+Bay County, Michigan	48,366
+Benzie County, Michigan	12,649
+Berrien County, Michigan	77,891
+Branch County, Michigan	21,023
+Calhoun County, Michigan	60,906
+Cass County, Michigan	26,520
+Charlevoix County, Michigan	17,853
+Cheboygan County, Michigan	18,651
+Chippewa County, Michigan	21,518
+Clare County, Michigan	23,458
+Clinton County, Michigan	32,155
+Crawford County, Michigan	11,258
+Delta County, Michigan	20,429
+Dickinson County, Michigan	14,134
+Eaton County, Michigan	47,801
+Emmet County, Michigan	21,864
+Genesee County, Michigan	192,902
+Gladwin County, Michigan	17,984
+Gogebic County, Michigan	10,788
+Grand Traverse County, Michigan	45,119
+Gratiot County, Michigan	16,370
+Hillsdale County, Michigan	22,122
+Houghton County, Michigan	18,946
+Huron County, Michigan	21,332
+Ingham County, Michigan	124,349
+Ionia County, Michigan	25,172
+Iosco County, Michigan	20,573
+Iron County, Michigan	9,344
+Isabella County, Michigan	29,308
+Jackson County, Michigan	69,807
+Kalamazoo County, Michigan	113,089
+Kalkaska County, Michigan	12,469
+Kent County, Michigan	259,375
+Keweenaw County, Michigan	2,514
+Lake County, Michigan	15,508
+Lapeer County, Michigan	36,971
+Leelanau County, Michigan	15,917
+Lenawee County, Michigan	43,969
+Livingston County, Michigan	77,728
+Luce County, Michigan	4,385
+Mackinac County, Michigan	11,295
+Macomb County, Michigan	369,479
+Manistee County, Michigan	15,910
+Marquette County, Michigan	34,974
+Mason County, Michigan	17,730
+Mecosta County, Michigan	21,901
+Menominee County, Michigan	14,369
+Midland County, Michigan	37,211
+Missaukee County, Michigan	9,294
+Monroe County, Michigan	65,258
+Montcalm County, Michigan	28,872
+Montmorency County, Michigan	9,631
+Muskegon County, Michigan	74,487
+Newaygo County, Michigan	25,806
+Oakland County, Michigan	544,669
+Oceana County, Michigan	16,300
+Ogemaw County, Michigan	16,252
+Ontonagon County, Michigan	5,703
+Osceola County, Michigan	13,853
+Oscoda County, Michigan	9,282
+Otsego County, Michigan	14,928
+Ottawa County, Michigan	111,978
+Presque Isle County, Michigan	10,496
+Roscommon County, Michigan	24,611
+Saginaw County, Michigan	88,036
+St Clair County, Michigan	72,584
+St Joseph County, Michigan	28,058
+Sanilac County, Michigan	23,155
+Schoolcraft County, Michigan	6,401
+Shiawassee County, Michigan	30,269
+Tuscola County, Michigan	24,525
+Van Buren County, Michigan	37,554
+Washtenaw County, Michigan	152,262
+Wayne County, Michigan	815,510
+Wexford County, Michigan	17,070
+Aitkin County, Minnesota	17,033
+Anoka County, Minnesota	134,681
+Becker County, Minnesota	20,066
+Beltrami County, Minnesota	21,995
+Benton County, Minnesota	17,495
+Big Stone County, Minnesota	3,166
+Blue Earth County, Minnesota	29,176
+Brown County, Minnesota	11,817
+Carlton County, Minnesota	16,239
+Carver County, Minnesota	39,750
+Cass County, Minnesota	26,308
+Chippewa County, Minnesota	5,709
+Chisago County, Minnesota	22,393
+Clay County, Minnesota	27,150
+Clearwater County, Minnesota	4,801
+Cook County, Minnesota	6,249
+Cottonwood County, Minnesota	5,436
+Crow Wing County, Minnesota	42,644
+Dakota County, Minnesota	169,967
+Dodge County, Minnesota	8,406
+Douglas County, Minnesota	21,544
+Faribault County, Minnesota	7,044
+Fillmore County, Minnesota	10,084
+Freeborn County, Minnesota	14,372
+Goodhue County, Minnesota	20,783
+Grant County, Minnesota	3,302
+Hennepin County, Minnesota	543,729
+Houston County, Minnesota	8,812
+Hubbard County, Minnesota	14,922
+Isanti County, Minnesota	16,482
+Itasca County, Minnesota	27,855
+Jackson County, Minnesota	5,077
+Kanabec County, Minnesota	8,016
+Kandiyohi County, Minnesota	20,076
+Kittson County, Minnesota	2,609
+Koochiching County, Minnesota	7,960
+Lac qui Parle County, Minnesota	3,698
+Lake County, Minnesota	8,029
+Lake of the Woods County, Minnesota	3,886
+Le Sueur County, Minnesota	12,878
+Lincoln County, Minnesota	3,145
+Lyon County, Minnesota	11,350
+McLeod County, Minnesota	16,043
+Mahnomen County, Minnesota	2,783
+Marshall County, Minnesota	4,820
+Martin County, Minnesota	9,973
+Meeker County, Minnesota	11,037
+Mille Lacs County, Minnesota	13,036
+Morrison County, Minnesota	16,331
+Mower County, Minnesota	17,092
+Murray County, Minnesota	4,663
+Nicollet County, Minnesota	13,691
+Nobles County, Minnesota	8,691
+Norman County, Minnesota	3,445
+Olmsted County, Minnesota	68,153
+Otter Tail County, Minnesota	36,368
+Pennington County, Minnesota	6,654
+Pine County, Minnesota	17,745
+Pipestone County, Minnesota	4,521
+Polk County, Minnesota	15,115
+Pope County, Minnesota	6,723
+Ramsey County, Minnesota	221,270
+Red Lake County, Minnesota	1,948
+Redwood County, Minnesota	7,342
+Renville County, Minnesota	7,353
+Rice County, Minnesota	25,280
+Rock County, Minnesota	4,343
+Roseau County, Minnesota	7,658
+St Louis County, Minnesota	105,306
+Scott County, Minnesota	52,722
+Sherburne County, Minnesota	34,757
+Sibley County, Minnesota	6,630
+Stearns County, Minnesota	65,662
+Steele County, Minnesota	15,824
+Stevens County, Minnesota	4,268
+Swift County, Minnesota	4,836
+Todd County, Minnesota	13,394
+Traverse County, Minnesota	2,103
+Wabasha County, Minnesota	10,306
+Wadena County, Minnesota	7,199
+Waseca County, Minnesota	7,959
+Washington County, Minnesota	100,996
+Watonwan County, Minnesota	5,050
+Wilkin County, Minnesota	3,157
+Winona County, Minnesota	21,327
+Wright County, Minnesota	53,282
+Yellow Medicine County, Minnesota	4,763
+Adams County, Mississippi	14,732
+Alcorn County, Mississippi	17,330
+Amite County, Mississippi	6,864
+Attala County, Mississippi	9,299
+Benton County, Mississippi	4,290
+Bolivar County, Mississippi	14,399
+Calhoun County, Mississippi	7,030
+Carroll County, Mississippi	5,228
+Chickasaw County, Mississippi	7,637
+Choctaw County, Mississippi	4,230
+Claiborne County, Mississippi	4,381
+Clarke County, Mississippi	8,057
+Clay County, Mississippi	9,342
+Coahoma County, Mississippi	10,708
+Copiah County, Mississippi	12,381
+Covington County, Mississippi	8,761
+DeSoto County, Mississippi	69,657
+Forrest County, Mississippi	33,179
+Franklin County, Mississippi	4,303
+George County, Mississippi	9,590
+Greene County, Mississippi	5,192
+Grenada County, Mississippi	10,262
+Hancock County, Mississippi	26,385
+Harrison County, Mississippi	94,603
+Hinds County, Mississippi	104,284
+Holmes County, Mississippi	8,643
+Humphreys County, Mississippi	3,810
+Issaquena County, Mississippi	573
+Itawamba County, Mississippi	10,370
+Jackson County, Mississippi	62,784
+Jasper County, Mississippi	8,490
+Jefferson County, Mississippi	3,811
+Jefferson Davis County, Mississippi	6,011
+Jones County, Mississippi	29,286
+Kemper County, Mississippi	4,795
+Lafayette County, Mississippi	26,558
+Lamar County, Mississippi	24,732
+Lauderdale County, Mississippi	35,399
+Lawrence County, Mississippi	6,225
+Leake County, Mississippi	9,622
+Lee County, Mississippi	37,123
+Leflore County, Mississippi	13,086
+Lincoln County, Mississippi	15,706
+Lowndes County, Mississippi	27,515
+Madison County, Mississippi	44,469
+Marion County, Mississippi	12,138
+Marshall County, Mississippi	15,845
+Monroe County, Mississippi	16,660
+Montgomery County, Mississippi	5,876
+Neshoba County, Mississippi	12,598
+Newton County, Mississippi	9,567
+Noxubee County, Mississippi	5,311
+Oktibbeha County, Mississippi	22,156
+Panola County, Mississippi	15,188
+Pearl River County, Mississippi	25,927
+Perry County, Mississippi	5,706
+Pike County, Mississippi	19,008
+Pontotoc County, Mississippi	13,083
+Prentiss County, Mississippi	11,254
+Quitman County, Mississippi	3,563
+Rankin County, Mississippi	61,842
+Scott County, Mississippi	11,810
+Sharkey County, Mississippi	2,158
+Simpson County, Mississippi	12,288
+Smith County, Mississippi	7,439
+Stone County, Mississippi	7,584
+Sunflower County, Mississippi	9,658
+Tallahatchie County, Mississippi	5,669
+Tate County, Mississippi	11,755
+Tippah County, Mississippi	9,971
+Tishomingo County, Mississippi	10,493
+Tunica County, Mississippi	5,023
+Union County, Mississippi	12,087
+Walthall County, Mississippi	7,333
+Warren County, Mississippi	22,110
+Washington County, Mississippi	21,594
+Wayne County, Mississippi	9,532
+Webster County, Mississippi	4,885
+Wilkinson County, Mississippi	5,237
+Winston County, Mississippi	8,803
+Yalobusha County, Mississippi	6,587
+Yazoo County, Mississippi	10,151
+Adair County, Missouri	11,645
+Andrew County, Missouri	7,319
+Atchison County, Missouri	2,952
+Audrain County, Missouri	10,931
+Barry County, Missouri	17,662
+Barton County, Missouri	5,589
+Bates County, Missouri	7,838
+Benton County, Missouri	14,274
+Bollinger County, Missouri	5,878
+Boone County, Missouri	79,354
+Buchanan County, Missouri	38,821
+Butler County, Missouri	19,867
+Caldwell County, Missouri	4,734
+Callaway County, Missouri	19,055
+Camden County, Missouri	42,080
+Cape Girardeau County, Missouri	34,975
+Carroll County, Missouri	4,650
+Carter County, Missouri	3,265
+Cass County, Missouri	42,878
+Cedar County, Missouri	7,266
+Chariton County, Missouri	4,149
+Christian County, Missouri	35,314
+Clark County, Missouri	3,506
+Clay County, Missouri	99,687
+Clinton County, Missouri	9,087
+Cole County, Missouri	33,624
+Cooper County, Missouri	7,495
+Crawford County, Missouri	12,102
+Dade County, Missouri	3,956
+Dallas County, Missouri	7,682
+Daviess County, Missouri	4,184
+DeKalb County, Missouri	4,355
+Dent County, Missouri	7,333
+Douglas County, Missouri	6,520
+Dunklin County, Missouri	14,452
+Franklin County, Missouri	45,888
+Gasconade County, Missouri	8,170
+Gentry County, Missouri	3,208
+Greene County, Missouri	135,642
+Grundy County, Missouri	5,002
+Harrison County, Missouri	4,378
+Henry County, Missouri	10,983
+Hickory County, Missouri	6,885
+Holt County, Missouri	2,791
+Howard County, Missouri	4,591
+Howell County, Missouri	18,341
+Iron County, Missouri	5,307
+Jackson County, Missouri	328,271
+Jasper County, Missouri	52,262
+Jefferson County, Missouri	92,137
+Johnson County, Missouri	22,397
+Knox County, Missouri	2,278
+Laclede County, Missouri	16,086
+Lafayette County, Missouri	14,866
+Lawrence County, Missouri	16,721
+Lewis County, Missouri	4,546
+Lincoln County, Missouri	21,976
+Linn County, Missouri	6,383
+Livingston County, Missouri	6,869
+McDonald County, Missouri	9,999
+Macon County, Missouri	7,686
+Madison County, Missouri	5,985
+Maries County, Missouri	4,611
+Marion County, Missouri	13,109
+Mercer County, Missouri	2,123
+Miller County, Missouri	12,972
+Mississippi County, Missouri	5,732
+Moniteau County, Missouri	6,174
+Monroe County, Missouri	4,854
+Montgomery County, Missouri	6,277
+Morgan County, Missouri	15,607
+New Madrid County, Missouri	8,608
+Newton County, Missouri	24,858
+Nodaway County, Missouri	9,810
+Oregon County, Missouri	5,476
+Osage County, Missouri	6,687
+Ozark County, Missouri	5,703
+Pemiscot County, Missouri	8,168
+Perry County, Missouri	8,869
+Pettis County, Missouri	18,229
+Phelps County, Missouri	20,567
+Pike County, Missouri	7,931
+Platte County, Missouri	42,839
+Polk County, Missouri	13,625
+Pulaski County, Missouri	19,179
+Putnam County, Missouri	2,977
+Ralls County, Missouri	5,194
+Randolph County, Missouri	10,828
+Ray County, Missouri	10,147
+Reynolds County, Missouri	4,030
+Ripley County, Missouri	6,642
+St Charles County, Missouri	158,393
+St Clair County, Missouri	5,650
+Ste Genevieve County, Missouri	8,758
+St Francois County, Missouri	30,442
+St Louis County, Missouri	442,301
+Saline County, Missouri	10,179
+Schuyler County, Missouri	2,100
+Scotland County, Missouri	2,371
+Scott County, Missouri	17,342
+Shannon County, Missouri	4,174
+Shelby County, Missouri	3,201
+Stoddard County, Missouri	13,751
+Stone County, Missouri	21,398
+Sullivan County, Missouri	3,335
+Taney County, Missouri	31,220
+Texas County, Missouri	11,737
+Vernon County, Missouri	9,595
+Warren County, Missouri	16,041
+Washington County, Missouri	11,079
+Wayne County, Missouri	8,115
+Webster County, Missouri	14,887
+Worth County, Missouri	1,270
+Wright County, Missouri	8,688
+St Louis city, Missouri	177,403
+Beaverhead County, Montana	5,363
+Big Horn County, Montana	4,728
+Blaine County, Montana	2,857
+Broadwater County, Montana	2,739
+Carbon County, Montana	6,584
+Carter County, Montana	835
+Cascade County, Montana	39,206
+Chouteau County, Montana	2,963
+Custer County, Montana	5,702
+Daniels County, Montana	1,130
+Dawson County, Montana	4,456
+Deer Lodge County, Montana	5,232
+Fallon County, Montana	1,743
+Fergus County, Montana	5,905
+Flathead County, Montana	49,531
+Gallatin County, Montana	52,554
+Garfield County, Montana	864
+Glacier County, Montana	5,395
+Golden Valley County, Montana	486
+Granite County, Montana	2,836
+Hill County, Montana	7,352
+Jefferson County, Montana	5,119
+Judith Basin County, Montana	1,356
+Lake County, Montana	16,958
+Lewis and Clark County, Montana	31,943
+Liberty County, Montana	1,047
+Lincoln County, Montana	11,610
+McCone County, Montana	1,024
+Madison County, Montana	7,004
+Meagher County, Montana	1,447
+Mineral County, Montana	2,507
+Missoula County, Montana	55,544
+Musselshell County, Montana	2,697
+Park County, Montana	9,718
+Petroleum County, Montana	332
+Phillips County, Montana	2,358
+Pondera County, Montana	2,679
+Powder River County, Montana	1,034
+Powell County, Montana	3,287
+Prairie County, Montana	680
+Ravalli County, Montana	19,847
+Richland County, Montana	5,286
+Roosevelt County, Montana	4,140
+Rosebud County, Montana	4,148
+Sanders County, Montana	6,764
+Sheridan County, Montana	2,158
+Silver Bow County, Montana	17,466
+Stillwater County, Montana	4,873
+Sweet Grass County, Montana	2,164
+Teton County, Montana	2,922
+Toole County, Montana	2,380
+Treasure County, Montana	434
+Valley County, Montana	4,897
+Wheatland County, Montana	1,209
+Wibaux County, Montana	580
+Yellowstone County, Montana	73,862
+Adams County, Nebraska	13,964
+Antelope County, Nebraska	3,336
+Arthur County, Nebraska	253
+Banner County, Nebraska	366
+Blaine County, Nebraska	324
+Boone County, Nebraska	2,633
+Box Butte County, Nebraska	5,434
+Boyd County, Nebraska	1,371
+Brown County, Nebraska	1,842
+Buffalo County, Nebraska	20,810
+Burt County, Nebraska	3,470
+Butler County, Nebraska	4,086
+Cass County, Nebraska	11,730
+Cedar County, Nebraska	4,167
+Chase County, Nebraska	1,971
+Cherry County, Nebraska	3,279
+Cheyenne County, Nebraska	5,024
+Clay County, Nebraska	3,026
+Colfax County, Nebraska	4,252
+Cuming County, Nebraska	4,266
+Custer County, Nebraska	5,671
+Dakota County, Nebraska	7,898
+Dawes County, Nebraska	4,261
+Dawson County, Nebraska	10,341
+Deuel County, Nebraska	1,024
+Dixon County, Nebraska	2,715
+Dodge County, Nebraska	16,826
+Douglas County, Nebraska	239,728
+Dundy County, Nebraska	1,120
+Fillmore County, Nebraska	2,934
+Franklin County, Nebraska	1,716
+Frontier County, Nebraska	1,582
+Furnas County, Nebraska	2,707
+Gage County, Nebraska	10,525
+Garden County, Nebraska	1,303
+Garfield County, Nebraska	1,217
+Gosper County, Nebraska	1,308
+Grant County, Nebraska	390
+Greeley County, Nebraska	1,311
+Hall County, Nebraska	25,161
+Hamilton County, Nebraska	4,177
+Harlan County, Nebraska	2,417
+Hayes County, Nebraska	511
+Hitchcock County, Nebraska	1,741
+Holt County, Nebraska	5,267
+Hooker County, Nebraska	445
+Howard County, Nebraska	3,132
+Jefferson County, Nebraska	3,911
+Johnson County, Nebraska	2,171
+Kearney County, Nebraska	2,983
+Keith County, Nebraska	5,517
+Keya Paha County, Nebraska	546
+Kimball County, Nebraska	1,944
+Knox County, Nebraska	4,974
+Lancaster County, Nebraska	134,986
+Lincoln County, Nebraska	16,889
+Logan County, Nebraska	395
+Loup County, Nebraska	468
+McPherson County, Nebraska	281
+Madison County, Nebraska	15,443
+Merrick County, Nebraska	3,849
+Morrill County, Nebraska	2,432
+Nance County, Nebraska	1,869
+Nemaha County, Nebraska	3,494
+Nuckolls County, Nebraska	2,449
+Otoe County, Nebraska	7,232
+Pawnee County, Nebraska	1,647
+Perkins County, Nebraska	1,446
+Phelps County, Nebraska	4,290
+Pierce County, Nebraska	3,293
+Platte County, Nebraska	13,905
+Polk County, Nebraska	2,738
+Red Willow County, Nebraska	5,319
+Richardson County, Nebraska	4,403
+Rock County, Nebraska	920
+Saline County, Nebraska	5,896
+Sarpy County, Nebraska	71,061
+Saunders County, Nebraska	9,906
+Scotts Bluff County, Nebraska	16,380
+Seward County, Nebraska	7,262
+Sheridan County, Nebraska	2,912
+Sherman County, Nebraska	1,958
+Sioux County, Nebraska	828
+Stanton County, Nebraska	2,703
+Thayer County, Nebraska	2,761
+Thomas County, Nebraska	405
+Thurston County, Nebraska	2,446
+Valley County, Nebraska	2,301
+Washington County, Nebraska	8,713
+Wayne County, Nebraska	3,997
+Webster County, Nebraska	1,908
+Wheeler County, Nebraska	584
+York County, Nebraska	6,380
+Churchill County, Nevada	11,045
+Clark County, Nevada	924,538
+Douglas County, Nevada	24,773
+Elko County, Nevada	21,966
+Esmeralda County, Nevada	860
+Eureka County, Nevada	1,087
+Humboldt County, Nevada	7,617
+Lander County, Nevada	2,741
+Lincoln County, Nevada	2,826
+Lyon County, Nevada	24,020
+Mineral County, Nevada	2,842
+Nye County, Nevada	22,479
+Pershing County, Nevada	2,508
+Storey County, Nevada	2,073
+Washoe County, Nevada	205,417
+White Pine County, Nevada	4,536
+Carson City, Nevada	24,356
+Belknap County, New Hampshire	38,982
+Carroll County, New Hampshire	41,664
+Cheshire County, New Hampshire	35,887
+Coos County, New Hampshire	21,723
+Grafton County, New Hampshire	53,421
+Hillsborough County, New Hampshire	173,309
+Merrimack County, New Hampshire	65,554
+Rockingham County, New Hampshire	134,190
+Strafford County, New Hampshire	54,825
+Sullivan County, New Hampshire	22,760
+Atlantic County, New Jersey	128,930
+Bergen County, New Jersey	360,816
+Burlington County, New Jersey	180,471
+Camden County, New Jersey	206,357
+Cape May County, New Jersey	99,634
+Cumberland County, New Jersey	56,451
+Essex County, New Jersey	319,686
+Gloucester County, New Jersey	114,447
+Hudson County, New Jersey	286,918
+Hunterdon County, New Jersey	50,563
+Mercer County, New Jersey	145,125
+Middlesex County, New Jersey	303,426
+Monmouth County, New Jersey	262,925
+Morris County, New Jersey	196,201
+Ocean County, New Jersey	286,170
+Passaic County, New Jersey	177,260
+Salem County, New Jersey	27,606
+Somerset County, New Jersey	127,513
+Sussex County, New Jersey	62,623
+Union County, New Jersey	203,054
+Warren County, New Jersey	45,636
+Bernalillo County, New Mexico	296,404
+Catron County, New Mexico	3,413
+Chaves County, New Mexico	27,480
+Cibola County, New Mexico	11,457
+Colfax County, New Mexico	10,356
+Curry County, New Mexico	21,493
+De Baca County, New Mexico	1,371
+Do–a Ana County, New Mexico	89,968
+Eddy County, New Mexico	25,089
+Grant County, New Mexico	15,162
+Guadalupe County, New Mexico	2,474
+Harding County, New Mexico	543
+Hidalgo County, New Mexico	2,480
+Lea County, New Mexico	27,028
+Lincoln County, New Mexico	18,366
+Los Alamos County, New Mexico	8,401
+Luna County, New Mexico	11,355
+McKinley County, New Mexico	26,429
+Mora County, New Mexico	3,328
+Otero County, New Mexico	31,947
+Quay County, New Mexico	5,724
+Rio Arriba County, New Mexico	20,302
+Roosevelt County, New Mexico	8,577
+Sandoval County, New Mexico	58,146
+San Juan County, New Mexico	51,480
+San Miguel County, New Mexico	16,073
+Santa Fe County, New Mexico	73,551
+Sierra County, New Mexico	8,602
+Socorro County, New Mexico	8,289
+Taos County, New Mexico	21,158
+Torrance County, New Mexico	8,093
+Union County, New Mexico	2,358
+Valencia County, New Mexico	31,576
+Albany County, New York	142,892
+Allegany County, New York	26,419
+Bronx County, New York	537,232
+Broome County, New York	91,408
+Cattaraugus County, New York	41,746
+Cayuga County, New York	37,247
+Chautauqua County, New York	67,774
+Chemung County, New York	39,082
+Chenango County, New York	25,961
+Clinton County, New York	36,835
+Columbia County, New York	33,698
+Cortland County, New York	20,872
+Delaware County, New York	31,649
+Dutchess County, New York	121,574
+Erie County, New York	430,736
+Essex County, New York	26,485
+Franklin County, New York	25,964
+Fulton County, New York	29,173
+Genesee County, New York	25,902
+Greene County, New York	29,792
+Hamilton County, New York	8,987
+Herkimer County, New York	33,909
+Jefferson County, New York	60,170
+Kings County, New York	1,065,399
+Lewis County, New York	15,817
+Livingston County, New York	27,725
+Madison County, New York	32,456
+Monroe County, New York	330,247
+Montgomery County, New York	23,550
+Nassau County, New York	474,165
+New York County, New York	892,878
+Niagara County, New York	100,710
+Oneida County, New York	105,614
+Onondaga County, New York	209,729
+Ontario County, New York	51,704
+Orange County, New York	145,207
+Orleans County, New York	18,600
+Oswego County, New York	54,721
+Otsego County, New York	31,332
+Putnam County, New York	38,713
+Queens County, New York	869,400
+Rensselaer County, New York	73,425
+Richmond County, New York	181,751
+Rockland County, New York	107,002
+St Lawrence County, New York	53,481
+Saratoga County, New York	108,311
+Schenectady County, New York	70,106
+Schoharie County, New York	17,588
+Schuyler County, New York	9,894
+Seneca County, New York	16,432
+Steuben County, New York	49,801
+Suffolk County, New York	577,512
+Sullivan County, New York	51,270
+Tioga County, New York	22,609
+Tompkins County, New York	44,634
+Ulster County, New York	85,608
+Warren County, New York	40,285
+Washington County, New York	29,650
+Wayne County, New York	41,894
+Westchester County, New York	377,297
+Wyoming County, New York	18,402
+Yates County, New York	13,955
+Alamance County, North Carolina	72,827
+Alexander County, North Carolina	16,609
+Alleghany County, North Carolina	8,215
+Anson County, North Carolina	11,668
+Ashe County, North Carolina	17,879
+Avery County, North Carolina	14,388
+Beaufort County, North Carolina	26,383
+Bertie County, North Carolina	9,843
+Bladen County, North Carolina	18,007
+Brunswick County, North Carolina	95,075
+Buncombe County, North Carolina	127,972
+Burke County, North Carolina	41,596
+Cabarrus County, North Carolina	82,526
+Caldwell County, North Carolina	38,250
+Camden County, North Carolina	4,381
+Carteret County, North Carolina	50,965
+Caswell County, North Carolina	10,892
+Catawba County, North Carolina	69,865
+Chatham County, North Carolina	33,711
+Cherokee County, North Carolina	18,595
+Chowan County, North Carolina	7,327
+Clay County, North Carolina	7,437
+Cleveland County, North Carolina	43,767
+Columbus County, North Carolina	26,425
+Craven County, North Carolina	47,674
+Cumberland County, North Carolina	147,313
+Currituck County, North Carolina	16,436
+Dare County, North Carolina	35,263
+Davidson County, North Carolina	76,055
+Davie County, North Carolina	19,303
+Duplin County, North Carolina	26,040
+Durham County, North Carolina	142,017
+Edgecombe County, North Carolina	25,063
+Forsyth County, North Carolina	168,793
+Franklin County, North Carolina	29,726
+Gaston County, North Carolina	94,975
+Gates County, North Carolina	5,492
+Graham County, North Carolina	6,079
+Granville County, North Carolina	24,856
+Greene County, North Carolina	8,372
+Guilford County, North Carolina	231,640
+Halifax County, North Carolina	26,035
+Harnett County, North Carolina	53,035
+Haywood County, North Carolina	35,742
+Henderson County, North Carolina	58,811
+Hertford County, North Carolina	10,651
+Hoke County, North Carolina	21,344
+Hyde County, North Carolina	3,406
+Iredell County, North Carolina	77,436
+Jackson County, North Carolina	27,832
+Johnston County, North Carolina	79,849
+Jones County, North Carolina	5,019
+Lee County, North Carolina	24,728
+Lenoir County, North Carolina	27,712
+Lincoln County, North Carolina	37,525
+McDowell County, North Carolina	21,600
+Macon County, North Carolina	25,716
+Madison County, North Carolina	11,136
+Martin County, North Carolina	11,583
+Mecklenburg County, North Carolina	466,911
+Mitchell County, North Carolina	8,860
+Montgomery County, North Carolina	16,319
+Moore County, North Carolina	48,635
+Nash County, North Carolina	43,324
+New Hanover County, North Carolina	114,839
+Northampton County, North Carolina	11,676
+Onslow County, North Carolina	81,065
+Orange County, North Carolina	60,273
+Pamlico County, North Carolina	7,794
+Pasquotank County, North Carolina	17,346
+Pender County, North Carolina	30,003
+Perquimans County, North Carolina	7,207
+Person County, North Carolina	18,628
+Pitt County, North Carolina	81,246
+Polk County, North Carolina	11,846
+Randolph County, North Carolina	62,925
+Richmond County, North Carolina	21,954
+Robeson County, North Carolina	53,384
+Rockingham County, North Carolina	44,422
+Rowan County, North Carolina	62,475
+Rutherford County, North Carolina	34,582
+Sampson County, North Carolina	27,982
+Scotland County, North Carolina	15,324
+Stanly County, North Carolina	28,177
+Stokes County, North Carolina	22,357
+Surry County, North Carolina	34,413
+Swain County, North Carolina	9,145
+Transylvania County, North Carolina	19,818
+Tyrrell County, North Carolina	2,090
+Union County, North Carolina	83,989
+Vance County, North Carolina	20,164
+Wake County, North Carolina	453,345
+Warren County, North Carolina	12,079
+Washington County, North Carolina	6,450
+Watauga County, North Carolina	34,285
+Wayne County, North Carolina	54,732
+Wilkes County, North Carolina	33,766
+Wilson County, North Carolina	36,508
+Yadkin County, North Carolina	17,450
+Yancey County, North Carolina	11,295
+Adams County, North Dakota	1,442
+Barnes County, North Dakota	6,046
+Benson County, North Dakota	3,055
+Billings County, North Dakota	562
+Bottineau County, North Dakota	4,493
+Bowman County, North Dakota	1,777
+Burke County, North Dakota	1,452
+Burleigh County, North Dakota	43,430
+Cass County, North Dakota	85,442
+Cavalier County, North Dakota	2,360
+Dickey County, North Dakota	2,658
+Divide County, North Dakota	1,525
+Dunn County, North Dakota	2,561
+Eddy County, North Dakota	1,354
+Emmons County, North Dakota	2,162
+Foster County, North Dakota	1,827
+Golden Valley County, North Dakota	1,054
+Grand Forks County, North Dakota	33,501
+Grant County, North Dakota	1,750
+Griggs County, North Dakota	1,460
+Hettinger County, North Dakota	1,434
+Kidder County, North Dakota	1,735
+LaMoure County, North Dakota	2,268
+Logan County, North Dakota	1,155
+McHenry County, North Dakota	3,178
+McIntosh County, North Dakota	1,859
+McKenzie County, North Dakota	6,924
+McLean County, North Dakota	6,289
+Mercer County, North Dakota	4,819
+Morton County, North Dakota	15,417
+Mountrail County, North Dakota	5,261
+Nelson County, North Dakota	1,957
+Oliver County, North Dakota	975
+Pembina County, North Dakota	3,864
+Pierce County, North Dakota	2,255
+Ramsey County, North Dakota	5,853
+Ransom County, North Dakota	2,686
+Renville County, North Dakota	1,423
+Richland County, North Dakota	7,798
+Rolette County, North Dakota	5,577
+Sargent County, North Dakota	2,190
+Sheridan County, North Dakota	930
+Sioux County, North Dakota	1,353
+Slope County, North Dakota	456
+Stark County, North Dakota	14,880
+Steele County, North Dakota	1,192
+Stutsman County, North Dakota	10,268
+Towner County, North Dakota	1,447
+Traill County, North Dakota	3,853
+Walsh County, North Dakota	5,623
+Ward County, North Dakota	33,171
+Wells County, North Dakota	2,513
+Williams County, North Dakota	19,659
+Adams County, Ohio	12,952
+Allen County, Ohio	45,188
+Ashland County, Ohio	22,379
+Ashtabula County, Ohio	46,269
+Athens County, Ohio	26,673
+Auglaize County, Ohio	20,138
+Belmont County, Ohio	32,238
+Brown County, Ohio	20,554
+Butler County, Ohio	153,241
+Carroll County, Ohio	13,606
+Champaign County, Ohio	16,848
+Clark County, Ohio	61,253
+Clermont County, Ohio	84,146
+Clinton County, Ohio	18,229
+Columbiana County, Ohio	46,850
+Coshocton County, Ohio	16,420
+Crawford County, Ohio	19,996
+Cuyahoga County, Ohio	617,249
+Darke County, Ohio	23,037
+Defiance County, Ohio	16,824
+Delaware County, Ohio	76,147
+Erie County, Ohio	37,897
+Fairfield County, Ohio	62,201
+Fayette County, Ohio	12,817
+Franklin County, Ohio	564,325
+Fulton County, Ohio	17,610
+Gallia County, Ohio	13,916
+Geauga County, Ohio	37,417
+Greene County, Ohio	71,313
+Guernsey County, Ohio	19,384
+Hamilton County, Ohio	380,769
+Hancock County, Ohio	34,559
+Hardin County, Ohio	13,252
+Harrison County, Ohio	8,081
+Henry County, Ohio	12,142
+Highland County, Ohio	19,333
+Hocking County, Ohio	13,419
+Holmes County, Ohio	13,583
+Huron County, Ohio	25,314
+Jackson County, Ohio	14,958
+Jefferson County, Ohio	32,408
+Knox County, Ohio	26,000
+Lake County, Ohio	103,493
+Lawrence County, Ohio	27,534
+Licking County, Ohio	71,200
+Logan County, Ohio	23,501
+Lorain County, Ohio	132,798
+Lucas County, Ohio	203,798
+Madison County, Ohio	16,204
+Mahoning County, Ohio	111,236
+Marion County, Ohio	27,880
+Medina County, Ohio	73,567
+Meigs County, Ohio	11,236
+Mercer County, Ohio	18,272
+Miami County, Ohio	44,405
+Monroe County, Ohio	7,483
+Montgomery County, Ohio	255,104
+Morgan County, Ohio	8,041
+Morrow County, Ohio	14,400
+Muskingum County, Ohio	37,956
+Noble County, Ohio	6,209
+Ottawa County, Ohio	28,713
+Paulding County, Ohio	8,803
+Perry County, Ohio	15,395
+Pickaway County, Ohio	21,683
+Pike County, Ohio	12,988
+Portage County, Ohio	69,752
+Preble County, Ohio	17,940
+Putnam County, Ohio	14,001
+Richland County, Ohio	54,113
+Ross County, Ohio	32,019
+Sandusky County, Ohio	26,357
+Scioto County, Ohio	34,575
+Seneca County, Ohio	24,168
+Shelby County, Ohio	20,525
+Stark County, Ohio	167,205
+Summit County, Ohio	246,432
+Trumbull County, Ohio	95,617
+Tuscarawas County, Ohio	40,237
+Union County, Ohio	22,410
+Van Wert County, Ohio	12,709
+Vinton County, Ohio	6,283
+Warren County, Ohio	89,763
+Washington County, Ohio	28,215
+Wayne County, Ohio	46,948
+Williams County, Ohio	16,666
+Wood County, Ohio	54,130
+Wyandot County, Ohio	9,970
+Adair County, Oklahoma	9,415
+Alfalfa County, Oklahoma	2,714
+Atoka County, Oklahoma	6,421
+Beaver County, Oklahoma	2,687
+Beckham County, Oklahoma	10,054
+Blaine County, Oklahoma	5,199
+Bryan County, Oklahoma	20,595
+Caddo County, Oklahoma	13,249
+Canadian County, Oklahoma	49,459
+Carter County, Oklahoma	21,868
+Cherokee County, Oklahoma	22,400
+Choctaw County, Oklahoma	7,624
+Cimarron County, Oklahoma	1,577
+Cleveland County, Oklahoma	117,076
+Coal County, Oklahoma	2,821
+Comanche County, Oklahoma	51,644
+Cotton County, Oklahoma	2,990
+Craig County, Oklahoma	6,741
+Creek County, Oklahoma	30,771
+Custer County, Oklahoma	12,738
+Delaware County, Oklahoma	25,682
+Dewey County, Oklahoma	2,452
+Ellis County, Oklahoma	2,273
+Garfield County, Oklahoma	26,775
+Garvin County, Oklahoma	12,869
+Grady County, Oklahoma	23,027
+Grant County, Oklahoma	2,467
+Greer County, Oklahoma	2,697
+Harmon County, Oklahoma	1,525
+Harper County, Oklahoma	1,881
+Haskell County, Oklahoma	6,205
+Hughes County, Oklahoma	6,272
+Jackson County, Oklahoma	12,135
+Jefferson County, Oklahoma	3,398
+Johnston County, Oklahoma	5,223
+Kay County, Oklahoma	21,441
+Kingfisher County, Oklahoma	6,575
+Kiowa County, Oklahoma	5,129
+Latimer County, Oklahoma	5,040
+Le Flore County, Oklahoma	22,203
+Lincoln County, Oklahoma	15,442
+Logan County, Oklahoma	17,574
+Love County, Oklahoma	4,594
+McClain County, Oklahoma	16,221
+McCurtain County, Oklahoma	15,734
+McIntosh County, Oklahoma	13,882
+Major County, Oklahoma	3,692
+Marshall County, Oklahoma	10,367
+Mayes County, Oklahoma	19,597
+Murray County, Oklahoma	6,884
+Muskogee County, Oklahoma	30,953
+Noble County, Oklahoma	5,333
+Nowata County, Oklahoma	4,894
+Okfuskee County, Oklahoma	5,336
+Oklahoma County, Oklahoma	343,971
+Okmulgee County, Oklahoma	17,879
+Osage County, Oklahoma	22,009
+Ottawa County, Oklahoma	14,100
+Pawnee County, Oklahoma	7,857
+Payne County, Oklahoma	36,859
+Pittsburg County, Oklahoma	23,129
+Pontotoc County, Oklahoma	16,928
+Pottawatomie County, Oklahoma	29,945
+Pushmataha County, Oklahoma	6,203
+Roger Mills County, Oklahoma	1,910
+Rogers County, Oklahoma	38,965
+Seminole County, Oklahoma	11,724
+Sequoyah County, Oklahoma	19,483
+Stephens County, Oklahoma	20,670
+Texas County, Oklahoma	8,244
+Tillman County, Oklahoma	3,985
+Tulsa County, Oklahoma	285,858
+Wagoner County, Oklahoma	33,203
+Washington County, Oklahoma	23,838
+Washita County, Oklahoma	5,397
+Woods County, Oklahoma	4,408
+Woodward County, Oklahoma	9,084
+Baker County, Oregon	9,096
+Benton County, Oregon	39,105
+Clackamas County, Oregon	170,724
+Clatsop County, Oregon	22,774
+Columbia County, Oregon	21,602
+Coos County, Oregon	31,368
+Crook County, Oregon	11,196
+Curry County, Oregon	13,069
+Deschutes County, Oregon	92,795
+Douglas County, Oregon	50,970
+Gilliam County, Oregon	1,186
+Grant County, Oregon	4,451
+Harney County, Oregon	3,928
+Hood River County, Oregon	10,157
+Jackson County, Oregon	97,266
+Jefferson County, Oregon	10,305
+Josephine County, Oregon	39,641
+Klamath County, Oregon	33,876
+Lake County, Oregon	4,553
+Lane County, Oregon	164,847
+Lincoln County, Oregon	31,945
+Linn County, Oregon	51,398
+Malheur County, Oregon	11,957
+Marion County, Oregon	128,622
+Morrow County, Oregon	4,789
+Multnomah County, Oregon	359,778
+Polk County, Oregon	32,957
+Sherman County, Oregon	943
+Tillamook County, Oregon	19,291
+Umatilla County, Oregon	30,919
+Union County, Oregon	11,922
+Wallowa County, Oregon	4,282
+Wasco County, Oregon	11,773
+Washington County, Oregon	234,162
+Wheeler County, Oregon	919
+Yamhill County, Oregon	39,899
+Adams County, Pennsylvania	42,756
+Allegheny County, Pennsylvania	604,258
+Armstrong County, Pennsylvania	32,841
+Beaver County, Pennsylvania	79,793
+Bedford County, Pennsylvania	24,474
+Berks County, Pennsylvania	167,853
+Blair County, Pennsylvania	57,027
+Bradford County, Pennsylvania	30,741
+Bucks County, Pennsylvania	252,261
+Butler County, Pennsylvania	84,873
+Cambria County, Pennsylvania	66,047
+Cameron County, Pennsylvania	4,421
+Carbon County, Pennsylvania	34,883
+Centre County, Pennsylvania	67,398
+Chester County, Pennsylvania	203,159
+Clarion County, Pennsylvania	20,584
+Clearfield County, Pennsylvania	39,357
+Clinton County, Pennsylvania	19,298
+Columbia County, Pennsylvania	30,425
+Crawford County, Pennsylvania	45,002
+Cumberland County, Pennsylvania	107,909
+Dauphin County, Pennsylvania	125,437
+Delaware County, Pennsylvania	225,035
+Elk County, Pennsylvania	17,830
+Erie County, Pennsylvania	121,858
+Fayette County, Pennsylvania	64,082
+Forest County, Pennsylvania	8,727
+Franklin County, Pennsylvania	66,183
+Fulton County, Pennsylvania	7,286
+Greene County, Pennsylvania	16,795
+Huntingdon County, Pennsylvania	22,781
+Indiana County, Pennsylvania	39,031
+Jefferson County, Pennsylvania	22,755
+Juniata County, Pennsylvania	11,293
+Lackawanna County, Pennsylvania	100,864
+Lancaster County, Pennsylvania	213,312
+Lawrence County, Pennsylvania	41,361
+Lebanon County, Pennsylvania	58,254
+Lehigh County, Pennsylvania	147,112
+Luzerne County, Pennsylvania	150,496
+Lycoming County, Pennsylvania	53,642
+McKean County, Pennsylvania	21,293
+Mercer County, Pennsylvania	52,408
+Mifflin County, Pennsylvania	21,955
+Monroe County, Pennsylvania	81,829
+Montgomery County, Pennsylvania	338,485
+Montour County, Pennsylvania	8,273
+Northampton County, Pennsylvania	123,892
+Northumberland County, Pennsylvania	45,625
+Perry County, Pennsylvania	21,021
+Philadelphia County, Pennsylvania	691,633
+Pike County, Pennsylvania	39,073
+Potter County, Pennsylvania	12,987
+Schuylkill County, Pennsylvania	70,013
+Snyder County, Pennsylvania	16,530
+Somerset County, Pennsylvania	38,585
+Sullivan County, Pennsylvania	6,386
+Susquehanna County, Pennsylvania	23,393
+Tioga County, Pennsylvania	21,886
+Union County, Pennsylvania	17,477
+Venango County, Pennsylvania	27,647
+Warren County, Pennsylvania	23,614
+Washington County, Pennsylvania	96,616
+Wayne County, Pennsylvania	32,481
+Westmoreland County, Pennsylvania	170,864
+Wyoming County, Pennsylvania	13,507
+York County, Pennsylvania	185,661
+Bristol County, Rhode Island	21,228
+Kent County, Rhode Island	74,651
+Newport County, Rhode Island	42,779
+Providence County, Rhode Island	266,804
+Washington County, Rhode Island	64,706
+Abbeville County, South Carolina	12,245
+Aiken County, South Carolina	78,520
+Allendale County, South Carolina	4,518
+Anderson County, South Carolina	89,884
+Bamberg County, South Carolina	7,725
+Barnwell County, South Carolina	10,603
+Beaufort County, South Carolina	102,705
+Berkeley County, South Carolina	88,357
+Calhoun County, South Carolina	7,527
+Charleston County, South Carolina	195,149
+Cherokee County, South Carolina	24,849
+Chester County, South Carolina	14,783
+Chesterfield County, South Carolina	21,829
+Clarendon County, South Carolina	17,965
+Colleton County, South Carolina	20,251
+Darlington County, South Carolina	31,013
+Dillon County, South Carolina	13,830
+Dorchester County, South Carolina	62,360
+Edgefield County, South Carolina	11,153
+Fairfield County, South Carolina	11,988
+Florence County, South Carolina	61,819
+Georgetown County, South Carolina	36,133
+Greenville County, South Carolina	218,206
+Greenwood County, South Carolina	31,585
+Hampton County, South Carolina	9,216
+Horry County, South Carolina	214,832
+Jasper County, South Carolina	12,525
+Kershaw County, South Carolina	29,693
+Lancaster County, South Carolina	39,578
+Laurens County, South Carolina	31,734
+Lee County, South Carolina	7,808
+Lexington County, South Carolina	127,977
+McCormick County, South Carolina	5,732
+Marion County, South Carolina	15,081
+Marlboro County, South Carolina	12,057
+Newberry County, South Carolina	18,453
+Oconee County, South Carolina	41,192
+Orangeburg County, South Carolina	42,938
+Pickens County, South Carolina	55,596
+Richland County, South Carolina	177,353
+Saluda County, South Carolina	9,499
+Spartanburg County, South Carolina	134,023
+Sumter County, South Carolina	48,613
+Union County, South Carolina	14,123
+Williamsburg County, South Carolina	15,633
+York County, South Carolina	112,633
+Aurora County, South Dakota	1,384
+Beadle County, South Dakota	8,569
+Bennett County, South Dakota	1,269
+Bon Homme County, South Dakota	2,997
+Brookings County, South Dakota	14,969
+Brown County, South Dakota	18,196
+Brule County, South Dakota	2,591
+Buffalo County, South Dakota	616
+Butte County, South Dakota	4,906
+Campbell County, South Dakota	985
+Charles Mix County, South Dakota	3,928
+Clark County, South Dakota	1,844
+Clay County, South Dakota	6,296
+Codington County, South Dakota	13,352
+Corson County, South Dakota	1,544
+Custer County, South Dakota	5,322
+Davison County, South Dakota	9,627
+Day County, South Dakota	3,832
+Deuel County, South Dakota	2,209
+Dewey County, South Dakota	2,033
+Douglas County, South Dakota	1,485
+Edmunds County, South Dakota	2,101
+Fall River County, South Dakota	4,241
+Faulk County, South Dakota	1,201
+Grant County, South Dakota	3,637
+Gregory County, South Dakota	2,545
+Haakon County, South Dakota	1,033
+Hamlin County, South Dakota	2,995
+Hand County, South Dakota	1,856
+Hanson County, South Dakota	1,219
+Harding County, South Dakota	759
+Hughes County, South Dakota	8,081
+Hutchinson County, South Dakota	3,389
+Hyde County, South Dakota	701
+Jackson County, South Dakota	1,212
+Jerauld County, South Dakota	1,083
+Jones County, South Dakota	656
+Kingsbury County, South Dakota	2,825
+Lake County, South Dakota	5,860
+Lawrence County, South Dakota	14,399
+Lincoln County, South Dakota	21,518
+Lyman County, South Dakota	1,751
+McCook County, South Dakota	2,615
+McPherson County, South Dakota	1,441
+Marshall County, South Dakota	2,660
+Meade County, South Dakota	12,394
+Mellette County, South Dakota	857
+Miner County, South Dakota	1,354
+Minnehaha County, South Dakota	85,661
+Moody County, South Dakota	2,911
+Oglala Lakota County, South Dakota	3,657
+Pennington County, South Dakota	49,777
+Perkins County, South Dakota	1,740
+Potter County, South Dakota	1,531
+Roberts County, South Dakota	5,097
+Sanborn County, South Dakota	1,213
+Spink County, South Dakota	3,269
+Stanley County, South Dakota	1,546
+Sully County, South Dakota	913
+Todd County, South Dakota	3,186
+Tripp County, South Dakota	3,112
+Turner County, South Dakota	4,074
+Union County, South Dakota	7,412
+Walworth County, South Dakota	3,077
+Yankton County, South Dakota	10,345
+Ziebach County, South Dakota	1,004
+Anderson County, Tennessee	35,143
+Bedford County, Tennessee	19,531
+Benton County, Tennessee	9,172
+Bledsoe County, Tennessee	5,796
+Blount County, Tennessee	58,942
+Bradley County, Tennessee	44,532
+Campbell County, Tennessee	21,394
+Cannon County, Tennessee	6,164
+Carroll County, Tennessee	13,273
+Carter County, Tennessee	28,350
+Cheatham County, Tennessee	16,717
+Chester County, Tennessee	7,170
+Claiborne County, Tennessee	15,606
+Clay County, Tennessee	4,377
+Cocke County, Tennessee	17,664
+Coffee County, Tennessee	24,490
+Crockett County, Tennessee	6,430
+Cumberland County, Tennessee	30,706
+Davidson County, Tennessee	325,454
+Decatur County, Tennessee	6,931
+DeKalb County, Tennessee	9,745
+Dickson County, Tennessee	22,382
+Dyer County, Tennessee	16,972
+Fayette County, Tennessee	17,729
+Fentress County, Tennessee	9,063
+Franklin County, Tennessee	19,670
+Gibson County, Tennessee	22,702
+Giles County, Tennessee	14,229
+Grainger County, Tennessee	11,214
+Greene County, Tennessee	32,775
+Grundy County, Tennessee	6,480
+Hamblen County, Tennessee	27,329
+Hamilton County, Tennessee	165,494
+Hancock County, Tennessee	3,613
+Hardeman County, Tennessee	11,052
+Hardin County, Tennessee	14,134
+Hawkins County, Tennessee	27,499
+Haywood County, Tennessee	8,407
+Henderson County, Tennessee	13,049
+Henry County, Tennessee	17,305
+Hickman County, Tennessee	10,616
+Houston County, Tennessee	4,239
+Humphreys County, Tennessee	8,990
+Jackson County, Tennessee	5,933
+Jefferson County, Tennessee	24,453
+Johnson County, Tennessee	9,019
+Knox County, Tennessee	210,085
+Lake County, Tennessee	2,596
+Lauderdale County, Tennessee	11,323
+Lawrence County, Tennessee	18,268
+Lewis County, Tennessee	5,633
+Lincoln County, Tennessee	15,714
+Loudon County, Tennessee	23,739
+McMinn County, Tennessee	23,471
+McNairy County, Tennessee	12,081
+Macon County, Tennessee	10,565
+Madison County, Tennessee	43,498
+Marion County, Tennessee	13,600
+Marshall County, Tennessee	13,927
+Maury County, Tennessee	39,259
+Meigs County, Tennessee	5,969
+Monroe County, Tennessee	21,413
+Montgomery County, Tennessee	84,148
+Moore County, Tennessee	3,087
+Morgan County, Tennessee	9,087
+Obion County, Tennessee	14,601
+Overton County, Tennessee	10,392
+Perry County, Tennessee	4,692
+Pickett County, Tennessee	3,526
+Polk County, Tennessee	9,235
+Putnam County, Tennessee	35,344
+Rhea County, Tennessee	14,847
+Roane County, Tennessee	25,694
+Robertson County, Tennessee	28,034
+Rutherford County, Tennessee	125,447
+Scott County, Tennessee	10,043
+Sequatchie County, Tennessee	6,527
+Sevier County, Tennessee	58,720
+Shelby County, Tennessee	407,273
+Smith County, Tennessee	8,898
+Stewart County, Tennessee	6,896
+Sullivan County, Tennessee	75,905
+Sumner County, Tennessee	75,354
+Tipton County, Tennessee	24,104
+Trousdale County, Tennessee	3,781
+Unicoi County, Tennessee	8,921
+Union County, Tennessee	9,573
+Van Buren County, Tennessee	2,695
+Warren County, Tennessee	18,053
+Washington County, Tennessee	61,196
+Wayne County, Tennessee	7,366
+Weakley County, Tennessee	15,645
+White County, Tennessee	12,102
+Williamson County, Tennessee	87,541
+Wilson County, Tennessee	56,410
+Anderson County, Texas	20,632
+Andrews County, Texas	6,354
+Angelina County, Texas	37,250
+Aransas County, Texas	16,238
+Archer County, Texas	4,184
+Armstrong County, Texas	927
+Atascosa County, Texas	18,725
+Austin County, Texas	13,521
+Bailey County, Texas	2,782
+Bandera County, Texas	12,058
+Bastrop County, Texas	31,090
+Baylor County, Texas	2,649
+Bee County, Texas	10,763
+Bell County, Texas	144,240
+Bexar County, Texas	705,038
+Blanco County, Texas	5,866
+Borden County, Texas	394
+Bosque County, Texas	9,805
+Bowie County, Texas	40,202
+Brazoria County, Texas	142,608
+Brazos County, Texas	94,330
+Brewster County, Texas	5,575
+Briscoe County, Texas	957
+Brooks County, Texas	3,237
+Brown County, Texas	19,355
+Burleson County, Texas	9,315
+Burnet County, Texas	23,943
+Caldwell County, Texas	15,671
+Calhoun County, Texas	12,151
+Callahan County, Texas	6,792
+Cameron County, Texas	154,019
+Camp County, Texas	5,853
+Carson County, Texas	2,793
+Cass County, Texas	14,727
+Castro County, Texas	3,190
+Chambers County, Texas	16,823
+Cherokee County, Texas	21,420
+Childress County, Texas	2,856
+Clay County, Texas	5,335
+Cochran County, Texas	1,352
+Coke County, Texas	2,736
+Coleman County, Texas	5,559
+Collin County, Texas	390,216
+Collingsworth County, Texas	1,598
+Colorado County, Texas	10,801
+Comal County, Texas	63,391
+Comanche County, Texas	7,444
+Concho County, Texas	1,669
+Cooke County, Texas	17,076
+Coryell County, Texas	27,089
+Cottle County, Texas	945
+Crane County, Texas	1,695
+Crockett County, Texas	1,887
+Crosby County, Texas	2,908
+Culberson County, Texas	1,175
+Dallam County, Texas	2,977
+Dallas County, Texas	1,041,775
+Dawson County, Texas	5,166
+Deaf Smith County, Texas	7,061
+Delta County, Texas	2,498
+Denton County, Texas	329,454
+DeWitt County, Texas	9,274
+Dickens County, Texas	1,287
+Dimmit County, Texas	4,436
+Donley County, Texas	2,161
+Duval County, Texas	5,602
+Eastland County, Texas	10,434
+Ector County, Texas	59,594
+Edwards County, Texas	1,655
+Ellis County, Texas	65,940
+El Paso County, Texas	301,462
+Erath County, Texas	18,652
+Falls County, Texas	7,786
+Fannin County, Texas	14,560
+Fayette County, Texas	14,043
+Fisher County, Texas	2,200
+Floyd County, Texas	2,956
+Foard County, Texas	792
+Fort Bend County, Texas	269,362
+Franklin County, Texas	5,858
+Freestone County, Texas	9,585
+Frio County, Texas	6,049
+Gaines County, Texas	6,549
+Galveston County, Texas	150,366
+Garza County, Texas	2,225
+Gillespie County, Texas	13,323
+Glasscock County, Texas	586
+Goliad County, Texas	3,792
+Gonzales County, Texas	9,079
+Gray County, Texas	9,983
+Grayson County, Texas	57,446
+Gregg County, Texas	52,438
+Grimes County, Texas	11,546
+Guadalupe County, Texas	61,312
+Hale County, Texas	13,381
+Hall County, Texas	1,910
+Hamilton County, Texas	4,553
+Hansford County, Texas	2,345
+Hardeman County, Texas	2,394
+Hardin County, Texas	25,433
+Harris County, Texas	1,818,111
+Harrison County, Texas	28,986
+Hartley County, Texas	2,060
+Haskell County, Texas	3,483
+Hays County, Texas	84,560
+Hemphill County, Texas	1,711
+Henderson County, Texas	41,902
+Hidalgo County, Texas	285,975
+Hill County, Texas	16,458
+Hockley County, Texas	9,434
+Hood County, Texas	26,920
+Hopkins County, Texas	15,496
+Houston County, Texas	11,859
+Howard County, Texas	13,203
+Hudspeth County, Texas	1,596
+Hunt County, Texas	38,399
+Hutchinson County, Texas	10,656
+Irion County, Texas	858
+Jack County, Texas	4,184
+Jackson County, Texas	6,794
+Jasper County, Texas	17,426
+Jeff Davis County, Texas	1,653
+Jefferson County, Texas	109,133
+Jim Hogg County, Texas	2,463
+Jim Wells County, Texas	16,408
+Johnson County, Texas	63,667
+Jones County, Texas	7,460
+Karnes County, Texas	6,102
+Kaufman County, Texas	43,485
+Kendall County, Texas	16,867
+Kenedy County, Texas	232
+Kent County, Texas	551
+Kerr County, Texas	24,977
+Kimble County, Texas	3,424
+King County, Texas	186
+Kinney County, Texas	2,002
+Kleberg County, Texas	13,286
+Knox County, Texas	2,030
+Lamar County, Texas	22,876
+Lamb County, Texas	6,062
+Lampasas County, Texas	9,529
+La Salle County, Texas	3,022
+Lavaca County, Texas	10,544
+Lee County, Texas	7,829
+Leon County, Texas	9,894
+Liberty County, Texas	32,718
+Limestone County, Texas	10,799
+Lipscomb County, Texas	1,506
+Live Oak County, Texas	6,320
+Llano County, Texas	15,789
+Loving County, Texas	55
+Lubbock County, Texas	130,773
+Lynn County, Texas	2,672
+McCulloch County, Texas	4,352
+McLennan County, Texas	103,176
+McMullen County, Texas	499
+Madison County, Texas	5,353
+Marion County, Texas	6,505
+Martin County, Texas	1,900
+Mason County, Texas	2,818
+Matagorda County, Texas	19,859
+Maverick County, Texas	18,571
+Medina County, Texas	18,888
+Menard County, Texas	1,721
+Midland County, Texas	63,185
+Milam County, Texas	11,484
+Mills County, Texas	2,876
+Mitchell County, Texas	4,116
+Montague County, Texas	10,302
+Montgomery County, Texas	229,697
+Moore County, Texas	8,104
+Morris County, Texas	6,048
+Motley County, Texas	774
+Nacogdoches County, Texas	28,608
+Navarro County, Texas	21,334
+Newton County, Texas	7,445
+Nolan County, Texas	7,079
+Nueces County, Texas	150,852
+Ochiltree County, Texas	4,163
+Oldham County, Texas	858
+Orange County, Texas	38,335
+Palo Pinto County, Texas	15,576
+Panola County, Texas	11,408
+Parker County, Texas	51,533
+Parmer County, Texas	3,808
+Pecos County, Texas	5,824
+Polk County, Texas	26,511
+Potter County, Texas	50,436
+Presidio County, Texas	3,969
+Rains County, Texas	5,460
+Randall County, Texas	55,498
+Reagan County, Texas	1,424
+Real County, Texas	2,697
+Red River County, Texas	6,998
+Reeves County, Texas	4,671
+Refugio County, Texas	3,723
+Roberts County, Texas	440
+Robertson County, Texas	9,049
+Rockwall County, Texas	37,226
+Runnels County, Texas	5,246
+Rusk County, Texas	21,861
+Sabine County, Texas	8,428
+San Augustine County, Texas	5,498
+San Jacinto County, Texas	14,680
+San Patricio County, Texas	28,847
+San Saba County, Texas	3,206
+Schleicher County, Texas	1,515
+Scurry County, Texas	7,219
+Shackelford County, Texas	1,787
+Shelby County, Texas	12,432
+Sherman County, Texas	1,350
+Smith County, Texas	91,845
+Somervell County, Texas	3,907
+Starr County, Texas	19,884
+Stephens County, Texas	4,983
+Sterling County, Texas	632
+Stonewall County, Texas	935
+Sutton County, Texas	2,065
+Swisher County, Texas	3,178
+Tarrant County, Texas	791,743
+Taylor County, Texas	57,952
+Terrell County, Texas	701
+Terry County, Texas	4,861
+Throckmorton County, Texas	1,084
+Titus County, Texas	12,550
+Tom Green County, Texas	48,907
+Travis County, Texas	545,693
+Trinity County, Texas	9,114
+Tyler County, Texas	10,969
+Upshur County, Texas	17,189
+Upton County, Texas	1,561
+Uvalde County, Texas	11,222
+Val Verde County, Texas	19,317
+Van Zandt County, Texas	23,633
+Victoria County, Texas	37,289
+Walker County, Texas	27,058
+Waller County, Texas	17,567
+Ward County, Texas	4,842
+Washington County, Texas	16,560
+Webb County, Texas	85,812
+Wharton County, Texas	17,782
+Wheeler County, Texas	2,723
+Wichita County, Texas	56,200
+Wilbarger County, Texas	6,217
+Willacy County, Texas	7,401
+Williamson County, Texas	205,609
+Wilson County, Texas	17,873
+Winkler County, Texas	3,100
+Wise County, Texas	25,166
+Wood County, Texas	21,402
+Yoakum County, Texas	3,044
+Young County, Texas	8,728
+Zapata County, Texas	6,544
+Zavala County, Texas	4,415
+Beaver County, Utah	3,059
+Box Elder County, Utah	19,357
+Cache County, Utah	43,169
+Carbon County, Utah	9,872
+Daggett County, Utah	1,230
+Davis County, Utah	112,482
+Duchesne County, Utah	10,532
+Emery County, Utah	4,636
+Garfield County, Utah	3,921
+Grand County, Utah	5,725
+Iron County, Utah	22,383
+Juab County, Utah	3,889
+Kane County, Utah	6,184
+Millard County, Utah	5,142
+Morgan County, Utah	3,725
+Piute County, Utah	1,023
+Rich County, Utah	3,181
+Salt Lake County, Utah	411,472
+San Juan County, Utah	6,064
+Sanpete County, Utah	10,863
+Sevier County, Utah	8,970
+Summit County, Utah	28,656
+Tooele County, Utah	23,163
+Uintah County, Utah	13,832
+Utah County, Utah	186,554
+Wasatch County, Utah	14,322
+Washington County, Utah	74,129
+Wayne County, Utah	1,703
+Weber County, Utah	94,283
+Addison County, Vermont	17,688
+Bennington County, Vermont	21,206
+Caledonia County, Vermont	16,518
+Chittenden County, Vermont	71,291
+Essex County, Vermont	5,229
+Franklin County, Vermont	22,835
+Grand Isle County, Vermont	5,383
+Lamoille County, Vermont	13,954
+Orange County, Vermont	15,611
+Orleans County, Vermont	17,949
+Rutland County, Vermont	34,637
+Washington County, Vermont	31,002
+Windham County, Vermont	30,948
+Windsor County, Vermont	35,188
+Accomack County, Virginia	21,319
+Albemarle County, Virginia	47,081
+Alleghany County, Virginia	8,010
+Amelia County, Virginia	5,677
+Amherst County, Virginia	14,266
+Appomattox County, Virginia	7,424
+Arlington County, Virginia	118,880
+Augusta County, Virginia	32,851
+Bath County, Virginia	3,300
+Bedford County, Virginia	37,040
+Bland County, Virginia	3,356
+Botetourt County, Virginia	15,025
+Brunswick County, Virginia	8,236
+Buchanan County, Virginia	11,556
+Buckingham County, Virginia	7,479
+Campbell County, Virginia	26,097
+Caroline County, Virginia	12,417
+Carroll County, Virginia	16,708
+Charles City County, Virginia	3,391
+Charlotte County, Virginia	6,348
+Chesterfield County, Virginia	134,267
+Clarke County, Virginia	6,396
+Craig County, Virginia	2,907
+Culpeper County, Virginia	19,239
+Cumberland County, Virginia	4,760
+Dickenson County, Virginia	7,563
+Dinwiddie County, Virginia	11,856
+Essex County, Virginia	5,894
+Fairfax County, Virginia	416,058
+Fauquier County, Virginia	27,398
+Floyd County, Virginia	8,110
+Fluvanna County, Virginia	11,162
+Franklin County, Virginia	30,069
+Frederick County, Virginia	35,450
+Giles County, Virginia	8,368
+Gloucester County, Virginia	16,857
+Goochland County, Virginia	9,613
+Grayson County, Virginia	9,256
+Greene County, Virginia	8,488
+Greensville County, Virginia	4,205
+Halifax County, Virginia	18,207
+Hanover County, Virginia	42,264
+Henrico County, Virginia	139,274
+Henry County, Virginia	26,170
+Highland County, Virginia	1,890
+Isle of Wight County, Virginia	16,025
+James City County, Virginia	34,135
+King and Queen County, Virginia	3,513
+King George County, Virginia	10,257
+King William County, Virginia	7,268
+Lancaster County, Virginia	7,684
+Lee County, Virginia	11,781
+Loudoun County, Virginia	139,974
+Louisa County, Virginia	17,916
+Lunenburg County, Virginia	5,998
+Madison County, Virginia	6,140
+Mathews County, Virginia	5,764
+Mecklenburg County, Virginia	19,066
+Middlesex County, Virginia	7,369
+Montgomery County, Virginia	41,053
+Nelson County, Virginia	10,240
+New Kent County, Virginia	8,956
+Northampton County, Virginia	7,440
+Northumberland County, Virginia	9,364
+Nottoway County, Virginia	6,821
+Orange County, Virginia	15,382
+Page County, Virginia	11,814
+Patrick County, Virginia	10,266
+Pittsylvania County, Virginia	31,659
+Powhatan County, Virginia	11,274
+Prince Edward County, Virginia	9,501
+Prince George County, Virginia	12,605
+Prince William County, Virginia	151,729
+Pulaski County, Virginia	17,302
+Rappahannock County, Virginia	3,998
+Richmond County, Virginia	3,989
+Roanoke County, Virginia	41,096
+Rockbridge County, Virginia	11,532
+Rockingham County, Virginia	36,163
+Russell County, Virginia	13,536
+Scott County, Virginia	11,966
+Shenandoah County, Virginia	21,335
+Smyth County, Virginia	15,352
+Southampton County, Virginia	7,673
+Spotsylvania County, Virginia	49,599
+Stafford County, Virginia	51,376
+Surry County, Virginia	3,611
+Sussex County, Virginia	4,837
+Tazewell County, Virginia	20,708
+Warren County, Virginia	16,606
+Washington County, Virginia	26,018
+Westmoreland County, Virginia	11,060
+Wise County, Virginia	17,916
+Wythe County, Virginia	14,422
+York County, Virginia	28,522
+Alexandria city, Virginia	76,415
+Bristol city, Virginia	8,709
+Buena Vista city, Virginia	2,851
+Charlottesville city, Virginia	20,886
+Chesapeake city, Virginia	92,600
+Colonial Heights city, Virginia	7,705
+Covington city, Virginia	2,972
+Danville city, Virginia	21,932
+Emporia city, Virginia	2,601
+Fairfax city, Virginia	9,083
+Falls Church city, Virginia	6,035
+Franklin city, Virginia	3,839
+Fredericksburg city, Virginia	12,098
+Galax city, Virginia	3,175
+Hampton city, Virginia	60,129
+Harrisonburg city, Virginia	18,353
+Hopewell city, Virginia	10,404
+Lexington city, Virginia	2,544
+Lynchburg city, Virginia	32,533
+Manassas city, Virginia	13,934
+Manassas Park city, Virginia	4,865
+Martinsville city, Virginia	7,031
+Newport News city, Virginia	77,926
+Norfolk city, Virginia	98,455
+Norton city, Virginia	1,954
+Petersburg city, Virginia	16,309
+Poquoson city, Virginia	4,854
+Portsmouth city, Virginia	40,907
+Radford city, Virginia	6,521
+Richmond city, Virginia	101,245
+Roanoke city, Virginia	46,942
+Salem city, Virginia	10,835
+Staunton city, Virginia	11,851
+Suffolk city, Virginia	37,955
+Virginia Beach city, Virginia	186,464
+Waynesboro city, Virginia	10,034
+Williamsburg city, Virginia	5,310
+Winchester city, Virginia	12,094
+Adams County, Washington	6,722
+Asotin County, Washington	10,125
+Benton County, Washington	78,624
+Chelan County, Washington	38,644
+Clallam County, Washington	37,728
+Clark County, Washington	189,583
+Columbia County, Washington	2,175
+Cowlitz County, Washington	45,282
+Douglas County, Washington	17,410
+Ferry County, Washington	4,529
+Franklin County, Washington	29,240
+Garfield County, Washington	1,250
+Grant County, Washington	38,512
+Grays Harbor County, Washington	36,907
+Island County, Washington	42,650
+Jefferson County, Washington	18,965
+King County, Washington	970,301
+Kitsap County, Washington	114,920
+Kittitas County, Washington	24,784
+Klickitat County, Washington	10,667
+Lewis County, Washington	35,686
+Lincoln County, Washington	6,158
+Mason County, Washington	33,987
+Okanogan County, Washington	23,516
+Pacific County, Washington	16,417
+Pend Oreille County, Washington	8,372
+Pierce County, Washington	356,273
+San Juan County, Washington	14,381
+Skagit County, Washington	54,914
+Skamania County, Washington	5,992
+Snohomish County, Washington	318,057
+Spokane County, Washington	223,079
+Stevens County, Washington	22,079
+Thurston County, Washington	119,558
+Wahkiakum County, Washington	2,180
+Walla Walla County, Washington	25,103
+Whatcom County, Washington	99,210
+Whitman County, Washington	21,262
+Yakima County, Washington	89,762
+Barbour County, West Virginia	7,913
+Berkeley County, West Virginia	50,333
+Boone County, West Virginia	11,210
+Braxton County, West Virginia	7,412
+Brooke County, West Virginia	10,751
+Cabell County, West Virginia	46,301
+Calhoun County, West Virginia	4,015
+Clay County, West Virginia	4,639
+Doddridge County, West Virginia	3,905
+Fayette County, West Virginia	21,422
+Gilmer County, West Virginia	3,604
+Grant County, West Virginia	6,775
+Greenbrier County, West Virginia	19,366
+Hampshire County, West Virginia	14,107
+Hancock County, West Virginia	14,304
+Hardy County, West Virginia	8,404
+Harrison County, West Virginia	31,812
+Jackson County, West Virginia	13,411
+Jefferson County, West Virginia	23,569
+Kanawha County, West Virginia	92,165
+Lewis County, West Virginia	7,963
+Lincoln County, West Virginia	9,964
+Logan County, West Virginia	16,867
+McDowell County, West Virginia	11,175
+Marion County, West Virginia	26,391
+Marshall County, West Virginia	15,730
+Mason County, West Virginia	13,096
+Mercer County, West Virginia	29,986
+Mineral County, West Virginia	13,149
+Mingo County, West Virginia	12,896
+Monongalia County, West Virginia	45,210
+Monroe County, West Virginia	7,652
+Morgan County, West Virginia	10,032
+Nicholas County, West Virginia	13,166
+Ohio County, West Virginia	20,835
+Pendleton County, West Virginia	5,235
+Pleasants County, West Virginia	3,413
+Pocahontas County, West Virginia	8,936
+Preston County, West Virginia	15,164
+Putnam County, West Virginia	24,315
+Raleigh County, West Virginia	36,148
+Randolph County, West Virginia	14,253
+Ritchie County, West Virginia	5,959
+Roane County, West Virginia	7,435
+Summers County, West Virginia	7,713
+Taylor County, West Virginia	7,510
+Tucker County, West Virginia	5,350
+Tyler County, West Virginia	5,036
+Upshur County, West Virginia	11,466
+Wayne County, West Virginia	19,340
+Webster County, West Virginia	5,452
+Wetzel County, West Virginia	8,201
+Wirt County, West Virginia	3,336
+Wood County, West Virginia	40,283
+Wyoming County, West Virginia	10,881
+Adams County, Wisconsin	17,887
+Ashland County, Wisconsin	9,645
+Barron County, Wisconsin	24,407
+Bayfield County, Wisconsin	13,512
+Brown County, Wisconsin	111,216
+Buffalo County, Wisconsin	6,854
+Burnett County, Wisconsin	15,804
+Calumet County, Wisconsin	21,138
+Chippewa County, Wisconsin	28,860
+Clark County, Wisconsin	15,254
+Columbia County, Wisconsin	27,036
+Crawford County, Wisconsin	9,026
+Dane County, Wisconsin	239,841
+Dodge County, Wisconsin	38,072
+Door County, Wisconsin	25,187
+Douglas County, Wisconsin	23,291
+Dunn County, Wisconsin	18,671
+Eau Claire County, Wisconsin	44,775
+Florence County, Wisconsin	4,931
+Fond du Lac County, Wisconsin	45,556
+Forest County, Wisconsin	9,250
+Grant County, Wisconsin	22,237
+Green County, Wisconsin	16,145
+Green Lake County, Wisconsin	10,784
+Iowa County, Wisconsin	10,997
+Iron County, Wisconsin	6,131
+Jackson County, Wisconsin	9,998
+Jefferson County, Wisconsin	36,162
+Juneau County, Wisconsin	15,361
+Kenosha County, Wisconsin	70,872
+Kewaunee County, Wisconsin	9,490
+La Crosse County, Wisconsin	51,026
+Lafayette County, Wisconsin	7,339
+Langlade County, Wisconsin	12,632
+Lincoln County, Wisconsin	17,335
+Manitowoc County, Wisconsin	37,657
+Marathon County, Wisconsin	59,940
+Marinette County, Wisconsin	30,983
+Marquette County, Wisconsin	10,032
+Menominee County, Wisconsin	2,302
+Milwaukee County, Wisconsin	420,162
+Monroe County, Wisconsin	20,098
+Oconto County, Wisconsin	24,468
+Oneida County, Wisconsin	31,379
+Outagamie County, Wisconsin	78,201
+Ozaukee County, Wisconsin	37,989
+Pepin County, Wisconsin	3,698
+Pierce County, Wisconsin	16,802
+Polk County, Wisconsin	24,967
+Portage County, Wisconsin	31,240
+Price County, Wisconsin	11,454
+Racine County, Wisconsin	83,140
+Richland County, Wisconsin	9,062
+Rock County, Wisconsin	69,436
+Rusk County, Wisconsin	9,308
+St Croix County, Wisconsin	36,822
+Sauk County, Wisconsin	30,744
+Sawyer County, Wisconsin	16,671
+Shawano County, Wisconsin	20,989
+Sheboygan County, Wisconsin	51,436
+Taylor County, Wisconsin	10,789
+Trempealeau County, Wisconsin	13,328
+Vernon County, Wisconsin	14,268
+Vilas County, Wisconsin	26,371
+Walworth County, Wisconsin	52,946
+Washburn County, Wisconsin	13,425
+Washington County, Wisconsin	57,523
+Waukesha County, Wisconsin	167,953
+Waupaca County, Wisconsin	26,005
+Waushara County, Wisconsin	15,195
+Winnebago County, Wisconsin	76,303
+Wood County, Wisconsin	35,488
+Albany County, Wyoming	19,540
+Big Horn County, Wyoming	5,478
+Campbell County, Wyoming	20,399
+Carbon County, Wyoming	8,845
+Converse County, Wyoming	6,699
+Crook County, Wyoming	3,671
+Fremont County, Wyoming	18,032
+Goshen County, Wyoming	6,030
+Hot Springs County, Wyoming	2,584
+Johnson County, Wyoming	4,650
+Laramie County, Wyoming	44,388
+Lincoln County, Wyoming	9,698
+Natrona County, Wyoming	37,354
+Niobrara County, Wyoming	1,370
+Park County, Wyoming	14,693
+Platte County, Wyoming	4,899
+Sheridan County, Wyoming	15,214
+Sublette County, Wyoming	6,108
+Sweetwater County, Wyoming	19,909
+Teton County, Wyoming	14,186
+Uinta County, Wyoming	9,108
+Washakie County, Wyoming	3,868
+Weston County, Wyoming	3,568
